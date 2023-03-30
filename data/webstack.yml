@@ -3,930 +3,939 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: MSDN库
-      logo: https://api.iowen.cn/favicon/www.xitongku.com.png
-      url: https://www.xitongku.com/
-    - title: TechBench
-      logo: https://api.iowen.cn/favicon/tb.rg-adguard.net.png
-      url: https://tb.rg-adguard.net/public.php?lang=zh-CN
-    - title: ITELLYOU
-      logo: https://api.iowen.cn/favicon/next.itellyou.cn.png
-      url: https://next.itellyou.cn/
-    - title: MSDN
-      logo: https://api.iowen.cn/favicon/msdn.itellyou.cn.png
-      url: https://msdn.itellyou.cn/
-    - title: 深度系统
-      logo: https://api.iowen.cn/favicon/www.deepin.org.png
-      url: https://www.deepin.org/zh/
-    - title: CentOS
-      logo: https://api.iowen.cn/favicon/www.centos.org.png
-      url: https://www.centos.org/
-    - title: JERRY-SYSTEM
-      logo: https://api.iowen.cn/favicon/pcos.ml.png
-      url: https://pcos.ml/app.html
-    - title: Sleazy Fork
-      logo: https://api.iowen.cn/favicon/sleazyfork.org.png
-      url: https://sleazyfork.org/zh-CN
-    - title: Greasy Fork
-      logo: https://api.iowen.cn/favicon/greasyfork.org.png
-      url: https://greasyfork.org/zh-CN
-    - title: 扩展迷
-      logo: https://api.iowen.cn/favicon/www.extfans.com.png
-      url: https://www.extfans.com/
-    - title: 扩展派
-      logo: https://api.iowen.cn/favicon/www.crxfun.com.png
-      url: https://www.crxfun.com/
-    - title: 油猴中文
-      logo: https://api.iowen.cn/favicon/bbs.tampermonkey.net.cn.png
-      url: https://bbs.tampermonkey.net.cn/
-    - title: Crx搜搜
-      logo: https://api.iowen.cn/favicon/www.crxsoso.com.png
-      url: https://www.crxsoso.com/
-    - title: Infinity
-      logo: https://api.iowen.cn/favicon/cn.infinitynewtab.com.png
-      url: https://cn.infinitynewtab.com/
-    - title: Microsoft
-      logo: https://api.iowen.cn/favicon/apps.microsoft.com.png
-      url: https://apps.microsoft.com/store/apps
-    - title: 替代软件
-      logo: https://api.iowen.cn/favicon/alternativeto.net.png
-      url: https://alternativeto.net/
-    - title: 软件先锋
-      logo: https://api.iowen.cn/favicon/soft.macxf.com.png
-      url: https://soft.macxf.com/
-    - title: Winstep
-      logo: https://api.iowen.cn/favicon/www.winstep.net.png
-      url: http://www.winstep.net/
-    - title: 致美化
-      logo: https://api.iowen.cn/favicon/zhutix.com.png
-      url: https://zhutix.com/
-    - title: Watt Toolkit
-      logo: https://api.iowen.cn/favicon/steampp.net.png
-      url: https://steampp.net/
-    - title: Snipaste
-      logo: https://api.iowen.cn/favicon/zh.snipaste.com.png
-      url: https://zh.snipaste.com/
-    - title: 视频下载器
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/KurtBestor/Hitomi-Downloader#supported-sites
-    - title: 哔哩下载姬
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/leiurayer/downkyi
-    - title: ReNamer
-      logo: https://api.iowen.cn/favicon/www.den4b.com.png
-      url: http://www.den4b.com/products/renamer
-    - title: droplt
-      logo: https://api.iowen.cn/favicon/www.dropitproject.com.png
-      url: http://www.dropitproject.com/
-    - title: Geek
-      logo: https://api.iowen.cn/favicon/geekuninstaller.com.png
-      url: https://geekuninstaller.com/
-    - title: IDM中文网
-      logo: https://api.iowen.cn/favicon/www.idmchina.net.png
-      url: https://www.idmchina.net/
-    - title: 格式工厂
-      logo: https://api.iowen.cn/favicon/www.pcgeshi.com.png
-      url: http://www.pcgeshi.com/index.html
-    - title: Download - Faceswap
-      logo: https://api.iowen.cn/favicon/faceswap.dev.png
-      url: https://faceswap.dev/download/
-    - title: qq机器人
-      logo: https://api.iowen.cn/favicon/drea.cc.png
-      url: https://drea.cc/
-    - title: Clouddrive2更新地址
-      logo: https://api.iowen.cn/favicon/www.52pojie.cn.png
-      url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1729226
-    - title: Jay的资源库 | 互联网资源集大成者
-      logo: https://api.iowen.cn/favicon/www.lovejay.top.png
-      url: https://www.lovejay.top/
-    - title: 静态资源托管库
-      logo: https://api.iowen.cn/favicon/cdn.baomitu.com.png
-      url: https://cdn.baomitu.com/
-    - title: npm
-      logo: https://api.iowen.cn/favicon/www.npmjs.com.png
-      url: https://www.npmjs.com/
-    - title: 51链
-      logo: https://api.iowen.cn/favicon/www.51link.com.png
-      url: https://www.51link.com/
-    - title: 站长资源
-      logo: https://api.iowen.cn/favicon/www.2898.com.png
-      url: https://www.2898.com/
-    - title: 大淘客
-      logo: https://api.iowen.cn/favicon/www.dataoke.com.png
-      url: https://www.dataoke.com/pmc/index.html
-    - title: Feather
-      logo: https://api.iowen.cn/favicon/feathericons.com.png
-      url: https://feathericons.com/
-    - title: Font Awesome
-      logo: https://api.iowen.cn/favicon/www.fontawesome.com.cn.png
-      url: http://www.fontawesome.com.cn/faicons/
-    - title: 阿里图标
-      logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
-      url: https://www.iconfont.cn/manage/index?spm=a313x.7781069.1998910419.13&manage_type=myprojects&projectId=2461393&keyword=&project_type=&page=
-    - title: Typecho主题
-      logo: https://api.iowen.cn/favicon/www.moidea.info.png
-      url: https://www.moidea.info/t/themes/
-    - title: Hexo-Stellar
-      logo: https://api.iowen.cn/favicon/xaoxuu.com.png
-      url: https://xaoxuu.com/wiki/stellar/
-    - title: DPlayer
-      logo: https://api.iowen.cn/favicon/dplayer.js.org.png
-      url: http://dplayer.js.org/zh/guide.html#special-thanks
-    - title: DPlayer
-      logo: https://api.iowen.cn/favicon/dplayer.diygod.dev.png
-      url: https://dplayer.diygod.dev/
-    - title: APlayer
-      logo: https://api.iowen.cn/favicon/aplayer.js.org.png
-      url: https://aplayer.js.org/#/
-    - title: Bootstrap
-      logo: https://api.iowen.cn/favicon/v3.bootcss.com.png
-      url: https://v3.bootcss.com/components/#glyphicons
-    - title: MDUI-框架
-      logo: https://api.iowen.cn/favicon/www.mdui.org.png
-      url: https://www.mdui.org/
-    - title: UIkit-框架
-      logo: https://api.iowen.cn/favicon/getuikit.com.png
-      url: https://getuikit.com/docs/introduction
-    - title: Element
-      logo: https://api.iowen.cn/favicon/element.eleme.cn.png
-      url: https://element.eleme.cn/#/zh-CN/component/carousel
-    - title: Electron
-      logo: https://api.iowen.cn/favicon/www.electronjs.org.png
-      url: https://www.electronjs.org/
-    - title: 故梦-API
-      logo: https://api.iowen.cn/favicon/docs.api.gmit.vip.png
-      url: https://docs.api.gmit.vip/#/
-    - title: 今日诗词
-      logo: https://api.iowen.cn/favicon/www.jinrishici.com.png
-      url: https://www.jinrishici.com/
-    - title: 小歪api
-      logo: https://api.iowen.cn/favicon/api.ixiaowai.cn.png
-      url: https://api.ixiaowai.cn/
-    - title: 远昔APi
-      logo: https://api.iowen.cn/favicon/yuanxiapi.cn.png
-      url: https://yuanxiapi.cn/
-    - title: 优刻短网址
-      logo: https://api.iowen.cn/favicon/e9u.cn.png
-      url: https://e9u.cn/
-    - title: MyUrls-短链
-      logo: https://api.iowen.cn/favicon/suo.yt.png
-      url: https://suo.yt/
-    - title: i8.gs
-      logo: https://api.iowen.cn/favicon/i8.gs.png
-      url: https://i8.gs/
-    - title: 9io-短链
-      logo: https://api.iowen.cn/favicon/9io.net.png
-      url: https://9io.net/?url=
-    - title: 旧爱短网址
-      logo: https://api.iowen.cn/favicon/dwz.gay.png
-      url: http://dwz.gay/
-    - title: 融兴采集
-      logo: https://api.iowen.cn/favicon/video.rongxingvr.cn.png
-      url: https://video.rongxingvr.cn/
-    - title: M3U8解析
-      logo: https://api.iowen.cn/favicon/www.m3u8.tv.png
-      url: http://www.m3u8.tv/
-    - title: 3D地球-网站统计
-      logo: https://api.iowen.cn/favicon/www.revolvermaps.com.png
-      url: https://www.revolvermaps.com/
-    - title: 语句接口 | 一言开发者中心
-      logo: https://api.iowen.cn/favicon/developer.hitokoto.cn.png
-      url: https://developer.hitokoto.cn/sentence/#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0
-    - title: 一为Api - 专业API提供 - 一为忆博客(iowen.cn)
-      logo: https://api.iowen.cn/favicon/api.iowen.cn.png
-      url: https://api.iowen.cn/
-    - title: 页脚图标生成
-      logo: https://api.iowen.cn/favicon/shields.io.png
-      url: https://shields.io/
-    - title: 老王图床
-      logo: https://api.iowen.cn/favicon/img.gejiba.com.png
-      url: https://img.gejiba.com/
-    - title: Lsky Pro
-      logo: https://api.iowen.cn/favicon/www.icpbk.com.png
-      url: https://www.icpbk.com/
-    - title: ThumbSnap
-      logo: https://api.iowen.cn/favicon/thumbsnap.com.png
-      url: https://thumbsnap.com/
-    - title: 可道云
-      logo: https://api.iowen.cn/favicon/kodcloud.com.png
-      url: https://kodcloud.com/
-    - title: MacCMS
-      logo: https://api.iowen.cn/favicon/cms.jnjddz.com.png
-      url: https://cms.jnjddz.com/
-    - title: Datatables
-      logo: https://api.iowen.cn/favicon/datatables.club.png
-      url: http://datatables.club/
-    - title: 🗂️ Alist
-      logo: https://api.iowen.cn/favicon/alist.nn.ci.png
-      url: https://alist.nn.ci/
-    - title: Cloudreve - 部署公私兼备的网盘系统
-      logo: https://api.iowen.cn/favicon/cloudreve.org.png
-      url: https://cloudreve.org/
-    - title: Single-file PHP file manager, browser and photo gallery | Files
-      logo: https://api.iowen.cn/favicon/www.files.gallery.png
-      url: https://www.files.gallery/
-    - title: 小白工具
-      logo: https://api.iowen.cn/favicon/www.ooopn.com.png
-      url: https://www.ooopn.com/tool/zlibrary/
-    - title: UU工具
-      logo: https://api.iowen.cn/favicon/uutool.cn.png
-      url: https://uutool.cn/
-    - title: 太美工具
-      logo: https://api.iowen.cn/favicon/tiomg.org.png
-      url: https://tiomg.org/
-    - title: Clipchamp
-      logo: https://api.iowen.cn/favicon/app.clipchamp.com.png
-      url: https://app.clipchamp.com/
-    - title: 流量精灵
-      logo: https://api.iowen.cn/favicon/www.ipjingling.com.png
-      url: http://www.ipjingling.com/index.php
-    - title: 草料二维码
-      logo: https://api.iowen.cn/favicon/cli.im.png
-      url: https://cli.im/deqr/
-    - title: 文档转换
-      logo: https://api.iowen.cn/favicon/www.aconvert.com.png
-      url: https://www.aconvert.com/cn/
-    - title: 链接生成器
-      logo: https://api.iowen.cn/favicon/tools.jb51.net.png
-      url: http://tools.jb51.net/aideddesign/ljscq
-    - title: 链接提取
-      logo: https://api.iowen.cn/favicon/uutool.cn.png
-      url: https://uutool.cn/extract-link/
-    - title: 在线文本去空行工具 - UU在线工具
-      logo: https://api.iowen.cn/favicon/uutool.cn.png
-      url: https://uutool.cn/nl-trim/
-    - title: 口令 ｜ 传输
-      logo: https://api.iowen.cn/favicon/600s.com.png
-      url: https://600s.com/fake
-    - title: 文件快递柜
-      logo: https://api.iowen.cn/favicon/share.u2.cm.png
-      url: https://share.u2.cm/
-    - title: 生成新拟态
-      logo: https://api.iowen.cn/favicon/neumorphism.io.png
-      url: https://neumorphism.io/#e0e0e0
-    - title: Favicon.ico图标生成器
-      logo: https://api.iowen.cn/favicon/www.logosc.cn.png
-      url: https://www.logosc.cn/logo/favicon
-    - title: md编辑器
-      logo: https://api.iowen.cn/favicon/tool.lu.png
-      url: https://tool.lu/markdown/
-    - title: myCompiler
-      logo: https://api.iowen.cn/favicon/www.mycompiler.io.png
-      url: https://www.mycompiler.io/
-    - title: MaHua
-      logo: https://api.iowen.cn/favicon/mahua.jser.me.png
-      url: http://mahua.jser.me/
-    - title: Editor.md
-      logo: https://api.iowen.cn/favicon/pandao.github.io.png
-      url: https://pandao.github.io/editor.md/
-    - title: office
-      logo: https://api.iowen.cn/favicon/www.office.com.png
-      url: https://www.office.com/
-    - title: 欢迎 - 工作区 - Visual Studio Code
-      logo: https://api.iowen.cn/favicon/vscode.dev.png
-      url: https://vscode.dev/
-    - title: 阿里小站专用编辑器
-      logo: https://api.iowen.cn/favicon/restless-glitter-1b9a.alixiaozhan.workers.dev.png
-      url: https://restless-glitter-1b9a.alixiaozhan.workers.dev/
-    - title: bilibili
-      logo: https://api.iowen.cn/favicon/www.bilibili.com.png
-      url: https://www.bilibili.com/
-    - title: AfreecaTV
-      logo: https://api.iowen.cn/favicon/www.afreecatv.com.png
-      url: https://www.afreecatv.com/
-    - title: 快手
-      logo: https://api.iowen.cn/favicon/live.kuaishou.com.png
-      url: https://live.kuaishou.com/v/hot/
-    - title: 搜片
-      logo: https://api.iowen.cn/favicon/soupian.app.png
-      url: https://soupian.app/
-    - title: 美剧虫
-      logo: https://api.iowen.cn/favicon/www.meijuchong.com.png
-      url: https://www.meijuchong.com/
-    - title: 美剧天堂
-      logo: https://api.iowen.cn/favicon/www.meijutt.tv.png
-      url: https://www.meijutt.tv/
-    - title: 低端影视
-      logo: https://api.iowen.cn/favicon/ddys.art.png
-      url: https://ddys.art/
-    - title: 低端影视 - 超清在线视频站
-      logo: https://api.iowen.cn/favicon/ddys.tv.png
-      url: https://ddys.tv/
-    - title: 哔嘀影视
-      logo: https://api.iowen.cn/favicon/www.btbdys.com.png
-      url: https://www.btbdys.com/
-    - title: 烧饼电影院
-      logo: https://api.iowen.cn/favicon/www.yufu3.com.png
-      url: https://www.yufu3.com/
-    - title: 射手网-字幕
-      logo: https://api.iowen.cn/favicon/assrt.net.png
-      url: http://assrt.net/
-    - title: 字幕库-字幕
-      logo: https://api.iowen.cn/favicon/zmk.pw.png
-      url: http://zmk.pw/
-    - title: 字幕Sub
-      logo: https://api.iowen.cn/favicon/subhd.tv.png
-      url: https://subhd.tv/
-    - title: SubHD字幕
-      logo: https://api.iowen.cn/favicon/subhdtw.com.png
-      url: https://subhdtw.com/
-    - title: Grab4K
-      logo: https://api.iowen.cn/favicon/www.grab4k.com.png
-      url: https://www.grab4k.com/
-    - title: 布谷TV
-      logo: https://api.iowen.cn/favicon/www.bugutv.net.png
-      url: https://www.bugutv.net/
-    - title: 4K圈
-      logo: https://api.iowen.cn/favicon/www.4kquan.com.png
-      url: http://www.4kquan.com/portal.php
-    - title: WebHD.cc
-      logo: https://api.iowen.cn/favicon/webhd.cc.png
-      url: https://webhd.cc/
-    - title: NEW字幕组
-      logo: https://api.iowen.cn/favicon/newzmz.com.png
-      url: https://newzmz.com/index.html
-    - title: YY
-      logo: https://api.iowen.cn/favicon/www.yy.com.png
-      url: https://www.yy.com/
-    - title: /
-      logo: https://api.iowen.cn/favicon/hefollo.com.png
-      url: https://hefollo.com/
-    - title: / - xKx写真库
-      logo: https://api.iowen.cn/favicon/sp.xkx.me.png
-      url: https://sp.xkx.me/
-    - title: OneDrive
-      logo: https://api.iowen.cn/favicon/odrive.azurewebsites.net.png
-      url: https://odrive.azurewebsites.net/od/
-    - title: 首页 - 远方盘
-      logo: https://api.iowen.cn/favicon/pan.ltyuanfang.cn.png
-      url: https://pan.ltyuanfang.cn/
-    - title: 比心的云盘
-      logo: https://api.iowen.cn/favicon/tengzhou.ren.png
-      url: https://tengzhou.ren/
-    - title: Alist
-      logo: https://api.iowen.cn/favicon/my.edui.fun.png
-      url: https://my.edui.fun/
-    - title: My drive
-      logo: https://api.iowen.cn/favicon/ali.kenvie.com.png
-      url: https://ali.kenvie.com/
-    - title: Cooluc's Blog
-      logo: https://api.iowen.cn/favicon/media.cooluc.com.png
-      url: https://media.cooluc.com/
-    - title: 清风
-      logo: https://api.iowen.cn/favicon/pan.woriqq.com.png
-      url: https://pan.woriqq.com/
-    - title: 123云盘
-      logo: https://api.iowen.cn/favicon/www.123pan.com.png
-      url: https://www.123pan.com/login
-    - title: 快乐盘
-      logo: https://api.iowen.cn/favicon/pan.klxq.icu.png
-      url: https://pan.klxq.icu/
-    - title: 小雅的分类 Alist
-      logo: https://api.iowen.cn/favicon/alist.xiaoya.pro.png
-      url: http://alist.xiaoya.pro/
-    - title: 主页 | 百克云盘
-      logo: https://api.iowen.cn/favicon/pan.peico.cn.png
-      url: http://pan.peico.cn/
-    - title: 主页 | 记忆储藏，百鸟思慕
-      logo: https://api.iowen.cn/favicon/cloud.avbk.cn.png
-      url: https://cloud.avbk.cn/
-    - title: 图欧学习资源库
-      logo: https://api.iowen.cn/favicon/tuostudy.com.png
-      url: https://tuostudy.com/
-    - title: 天翼小站
-      logo: https://api.iowen.cn/favicon/yun.hei521.cn.png
-      url: https://yun.hei521.cn/
-    - title: 盘盘资源
-      logo: https://api.iowen.cn/favicon/www.panpanr.com.png
-      url: https://www.panpanr.com/
-    - title: 阿里云盘网
-      logo: https://api.iowen.cn/favicon/www.ypfxw.cn.png
-      url: http://www.ypfxw.cn/
-    - title: OneDrive
-      logo: https://api.iowen.cn/favicon/onedrive.live.com.png
-      url: https://onedrive.live.com/
-    - title: 我的文件 - OneDrive
-      logo: https://api.iowen.cn/favicon/1ovefree-my.sharepoint.com.png
-      url: https://1ovefree-my.sharepoint.com/personal/niubi_1ove_eu_org/_layouts/15/onedrive.aspx
-    - title: PikPak
-      logo: https://api.iowen.cn/favicon/mypikpak.com.png
-      url: https://mypikpak.com/drive/all
-    - title: 天翼云盘
-      logo: https://api.iowen.cn/favicon/cloud.189.cn.png
-      url: https://cloud.189.cn/web/login.html
-    - title: 百度网盘
-      logo: https://api.iowen.cn/favicon/pan.baidu.com.png
-      url: https://pan.baidu.com/
-    - title: 夸克网盘
-      logo: https://api.iowen.cn/favicon/pan.quark.cn.png
-      url: https://pan.quark.cn/#/list/all
-    - title: 蓝奏云
-      logo: https://api.iowen.cn/favicon/up.woozooo.com.png
-      url: https://up.woozooo.com/u
-    - title: vivo云服务
-      logo: https://api.iowen.cn/favicon/yun.vivo.com.cn.png
-      url: https://yun.vivo.com.cn/#/home
-    - title: 百度网盘
-      logo: https://api.iowen.cn/favicon/pan.baidu.com.png
-      url: https://pan.baidu.com/disk/main#/index
-    - title: 和彩云
-      logo: https://api.iowen.cn/favicon/yun.139.com.png
-      url: https://yun.139.com/w/#/
-    - title: 优梦_云盘
-      logo: https://api.iowen.cn/favicon/pan.aoxix.com.png
-      url: https://pan.aoxix.com/user/index
-    - title: Teambition
-      logo: https://api.iowen.cn/favicon/www.teambition.com.png
-      url: https://www.teambition.com/
-    - title: 可道云个人
-      logo: https://api.iowen.cn/favicon/disk.ningsuan.com.cn.png
-      url: https://disk.ningsuan.com.cn/
-    - title: 坚果云
-      logo: https://api.iowen.cn/favicon/www.jianguoyun.com.png
-      url: https://www.jianguoyun.com/#/
-    - title: All-in-one
-      logo: https://api.iowen.cn/favicon/drive.imgod.me.png
-      url: https://drive.imgod.me/login
-    - title: iCloud
-      logo: https://api.iowen.cn/favicon/www.icloud.com.png
-      url: https://www.icloud.com/
-    - title: e5订阅
-      logo: https://api.iowen.cn/favicon/developer.microsoft.com.png
-      url: https://developer.microsoft.com/zh-cn/microsoft-365/profile
-    - title: 1ove论坛
-      logo: https://api.iowen.cn/favicon/bbs.1ove.club.png
-      url: https://bbs.1ove.club/forum-7.htm
-    - title: 吾爱破解
-      logo: https://api.iowen.cn/favicon/www.52pojie.cn.png
-      url: https://www.52pojie.cn/
-    - title: V2EX
-      logo: https://api.iowen.cn/favicon/v2ex.com.png
-      url: https://v2ex.com/
-    - title: ai换脸论坛
-      logo: https://api.iowen.cn/favicon/dfldata.xyz.png
-      url: https://dfldata.xyz/forum.php
-    - title: 阿里云盘资源共享站
-      logo: https://api.iowen.cn/favicon/pan666.cn.png
-      url: https://pan666.cn/#upyunso.com
-    - title: 我的小站-阿里云盘资源共享站
-      logo: https://api.iowen.cn/favicon/newxiaozhan.com.png
-      url: https://newxiaozhan.com/
-    - title: 小歪博客
-      logo: https://api.iowen.cn/favicon/blog.ixiaowai.cn.png
-      url: https://blog.ixiaowai.cn/
-    - title: 夜雨聆风
-      logo: https://api.iowen.cn/favicon/www.yeyulingfeng.com.png
-      url: https://www.yeyulingfeng.com/
-    - title: 小枫网络
-      logo: https://api.iowen.cn/favicon/www.xfwl.club.png
-      url: https://www.xfwl.club/
-    - title: 韩小韩
-      logo: https://api.iowen.cn/favicon/www.vvhan.com.png
-      url: https://www.vvhan.com/
-    - title: 缥缈博客
-      logo: https://api.iowen.cn/favicon/blog.btstu.cn.png
-      url: https://blog.btstu.cn/
-    - title: AE博客
-      logo: https://api.iowen.cn/favicon/www.aeink.com.png
-      url: http://www.aeink.com/
-    - title: 天蝎雨
-      logo: https://api.iowen.cn/favicon/scorain.com.png
-      url: https://scorain.com/
-    - title: 缤纷彩虹
-      logo: https://api.iowen.cn/favicon/blog.cccyun.cn.png
-      url: http://blog.cccyun.cn/
-    - title: 技术松鼠
-      logo: https://api.iowen.cn/favicon/www.jishusongshu.com.png
-      url: https://www.jishusongshu.com/
-    - title: 站长素材
-      logo: https://api.iowen.cn/favicon/www.zztuku.com.png
-      url: https://www.zztuku.com/
-    - title: Eonegh's Blog
-      logo: https://api.iowen.cn/favicon/eonegh.com.png
-      url: https://eonegh.com/
-    - title: 李峰博客
-      logo: https://api.iowen.cn/favicon/www.lifeng.in.png
-      url: https://www.lifeng.in/12642.html
-    - title: MiniCMS
-      logo: https://api.iowen.cn/favicon/1234n.com.png
-      url: http://1234n.com/?projects/minicms/
-    - title: Yovi's Blog
-      logo: https://api.iowen.cn/favicon/www.yovisun.com.png
-      url: http://www.yovisun.com/
-    - title: Lime's Blog
-      logo: https://api.iowen.cn/favicon/blog.qninq.cn.png
-      url: https://blog.qninq.cn/
-    - title: HCLonely
-      logo: https://api.iowen.cn/favicon/blog.hclonely.com.png
-      url: https://blog.hclonely.com/
-    - title: 远昔博客
-      logo: https://api.iowen.cn/favicon/www.yuanxiblog.cn.png
-      url: https://www.yuanxiblog.cn/
-    - title: Nite07小窝
-      logo: https://api.iowen.cn/favicon/www.nite07.com.png
-      url: https://www.nite07.com/
-    - title: 井犯博客
-      logo: https://api.iowen.cn/favicon/nicejf.cn.png
-      url: https://nicejf.cn/
-    - title: 孟坤博客
-      logo: https://api.iowen.cn/favicon/mkblog.cn.png
-      url: https://mkblog.cn/
-    - title: 梓宸的小屋
-      logo: https://api.iowen.cn/favicon/zichen.zone.png
-      url: https://zichen.zone/
-    - title: MengD(萌典)
-      logo: https://api.iowen.cn/favicon/mengd.js.org.png
-      url: https://mengd.js.org/
-    - title: 萌通社区
-      logo: https://api.iowen.cn/favicon/www.umtp.cn.png
-      url: https://www.umtp.cn/
-    - title: 梅塔沃克 - 专注跨境
-      logo: https://api.iowen.cn/favicon/iweec.com.png
-      url: https://iweec.com/
-    - title: 竹山一叶 - 竹山一叶的小家
-      logo: https://api.iowen.cn/favicon/zsyyblog.com.png
-      url: https://zsyyblog.com/
-    - title: Lete乐特的小窝
-      logo: https://api.iowen.cn/favicon/www.imlete.cn.png
-      url: https://www.imlete.cn/
-    - title: 首页 - 贝贝工具站
-      logo: https://api.iowen.cn/favicon/xbeibeix.com.png
-      url: https://xbeibeix.com/
-    - title: 章鱼猫先生 · 语雀
-      logo: https://api.iowen.cn/favicon/www.yuque.com.png
-      url: https://www.yuque.com/shenweiyan
-    - title: Akilarの糖果屋 - Akilar.top
-      logo: https://api.iowen.cn/favicon/akilar.top.png
-      url: https://akilar.top/
-    - title: Butterfly - A Simple and Card UI Design theme for Hexo
-      logo: https://api.iowen.cn/favicon/butterfly.js.org.png
-      url: https://butterfly.js.org/
-    - title: metowolf/MetingJS: A powerful plugin connect APlayer and Meting
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/metowolf/MetingJS
-    - title: 一为忆 | 分享资源分享精品内容。
-      logo: https://api.iowen.cn/favicon/www.iowen.cn.png
-      url: https://www.iowen.cn/
-    - title: Leonus - 进一寸有进一寸的欢喜。
-      logo: https://api.iowen.cn/favicon/blog.leonus.cn.png
-      url: https://blog.leonus.cn/
-    - title: 轻笑Chuckle
-      logo: https://api.iowen.cn/favicon/www.chuckle.top.png
-      url: https://www.chuckle.top/
-    - title: 枢衡の巢 | 一只小乌鸦的学习日记
-      logo: https://api.iowen.cn/favicon/www.crowhsu.top.png
-      url: https://www.crowhsu.top/
-    - title: 小冰博客 - 做个有梦想的人！
-      logo: https://api.iowen.cn/favicon/zfe.space.png
-      url: https://zfe.space/
-    - title: Ariasakaの小窝
-      logo: https://api.iowen.cn/favicon/yisous.xyz.png
-      url: https://yisous.xyz/
-    - title: 必应每日
-      logo: https://api.iowen.cn/favicon/bing.ioliu.cn.png
-      url: https://bing.ioliu.cn/
-    - title: 正版图片
-      logo: https://api.iowen.cn/favicon/pixabay.com.png
-      url: https://pixabay.com/zh/
-    - title: MYFREEMP3
-      logo: https://api.iowen.cn/favicon/tools.liumingye.cn.png
-      url: http://tools.liumingye.cn/music/?page=searchPage
-    - title: 可可DJ
-      logo: https://api.iowen.cn/favicon/www.kekedj.com.png
-      url: https://www.kekedj.com/
-    - title: 菜鸟教程
-      logo: https://api.iowen.cn/favicon/www.runoob.com.png
-      url: https://www.runoob.com/
-    - title: w3在线教程
-      logo: https://api.iowen.cn/favicon/www.w3school.com.cn.png
-      url: https://www.w3school.com.cn/
-    - title: MV下载王
-      logo: https://api.iowen.cn/favicon/mvxz.com.png
-      url: http://mvxz.com/?home
-    - title: Edui-导航
-      logo: https://api.iowen.cn/favicon/edui123.com.png
-      url: https://edui123.com/
-    - title: 氪主页
-      logo: https://api.iowen.cn/favicon/www.51kim.com.png
-      url: https://www.51kim.com/
-    - title: SearXNG and searx instances
-      logo: https://api.iowen.cn/favicon/searx.space.png
-      url: https://searx.space/
-    - title: 嗨PC主页
-      logo: https://api.iowen.cn/favicon/www.haipc.cn.png
-      url: https://www.haipc.cn/
-    - title: 无追搜索
-      logo: https://api.iowen.cn/favicon/www.wuzhuiso.com.png
-      url: https://www.wuzhuiso.com/
-    - title: 聚神铺
-      logo: https://api.iowen.cn/favicon/www.jspoo.com.png
-      url: https://www.jspoo.com/
-    - title: 蓝莓投屏官网 | 投屏SDK | 投屏方案 | 支持Airplay/DLNA,免费好用的投屏App
-      logo: https://api.iowen.cn/favicon/www.deeprd.com.png
-      url: http://www.deeprd.com/
-    - title: ChatGPT中文网
-      logo: https://api.iowen.cn/favicon/ai.d8bi.cn.png
-      url: http://ai.d8bi.cn/index.php
-    - title: https://www.cocservice.top/update/0487-Pet-House
-      logo: https://api.iowen.cn/favicon/www.cocservice.top.png
-      url: https://www.cocservice.top/update/0487-Pet-House
-    - title: cixingguangming55555/wechat-bot: 带二次开发接口的PC微信聊天机器人
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/cixingguangming55555/wechat-bot
-    - title: QQ推广
-      logo: https://api.iowen.cn/favicon/shang.qq.com.png
-      url: https://shang.qq.com/v3/widget.html
-    - title: QQ邮箱
-      logo: https://api.iowen.cn/favicon/mail.qq.com.png
-      url: https://mail.qq.com/
-    - title: 腾讯微云
-      logo: https://api.iowen.cn/favicon/www.weiyun.com.png
-      url: https://www.weiyun.com/disk
-    - title: 腾讯文档
-      logo: https://api.iowen.cn/favicon/docs.qq.com.png
-      url: https://docs.qq.com/desktop/?u=cbf8fc79db334ed9be02f3d5a3486e5b
-    - title: 腾讯视频
-      logo: https://api.iowen.cn/favicon/v.qq.com.png
-      url: https://v.qq.com/
-    - title: 百度翻译
-      logo: https://api.iowen.cn/favicon/fanyi.baidu.com.png
-      url: https://fanyi.baidu.com/
-    - title: 百度统计
-      logo: https://api.iowen.cn/favicon/tongji.baidu.com.png
-      url: https://tongji.baidu.com/main/homepage/10000306886/homepage/index
-    - title: 百度CDN
-      logo: https://api.iowen.cn/favicon/su.baidu.com.png
-      url: https://su.baidu.com/console/index.html#/accountconfig
-    - title: 百度搜索榜
-      logo: https://api.iowen.cn/favicon/top.baidu.com.png
-      url: http://top.baidu.com/?vit=1&fr=topboards
-    - title: YouTube
-      logo: https://api.iowen.cn/favicon/www.youtube.com.png
-      url: https://www.youtube.com/
-    - title: Google
-      logo: https://api.iowen.cn/favicon/www.google.com.png
-      url: https://www.google.com/
-    - title: 图片
-      logo: https://api.iowen.cn/favicon/www.google.com.png
-      url: https://www.google.com/imghp?hl=zh-CN
-    - title: 地图
-      logo: https://api.iowen.cn/favicon/maps.google.com.png
-      url: https://maps.google.com/
-    - title: Gmail
-      logo: https://api.iowen.cn/favicon/accounts.google.com.png
-      url: https://accounts.google.com/b/0/AddMailService
-    - title: 翻译
-      logo: https://api.iowen.cn/favicon/translate.google.com.png
-      url: https://translate.google.com/?hl=zh-CN&tab=TT
-    - title: 云端硬盘
-      logo: https://api.iowen.cn/favicon/drive.google.com.png
-      url: https://drive.google.com/drive/
-    - title: 谷歌字体
-      logo: https://api.iowen.cn/favicon/fonts.google.com.png
-      url: https://fonts.google.com/
-    - title: 淘宝联盟
-      logo: https://api.iowen.cn/favicon/pub.alimama.com.png
-      url: https://pub.alimama.com/?spm=a219t.46807174.0.0.4f1575a5UpwtUS
-    - title: AdSense
-      logo: https://api.iowen.cn/favicon/www.google.com.png
-      url: https://www.google.com/adsense/start/
-    - title: FeHelper
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/zxlie/FeHelper
-    - title: OneManager
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/qkqpttgf/OneManager-php
-    - title: alist-heroku
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/sbwml/alist-heroku
-    - title: sharelist
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/reruin/sharelist
-    - title: WebStack
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/WebStackPage/WebStackPage.github.io
-    - title: v2项目
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/2dust
-    - title: PDFSigner
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/hibem/PDFSigner
-    - title: docsifyjs
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/docsifyjs/docsify
-    - title: virzs/Search
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/virzs/Search
-    - title: 秘笈搜索
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/entropage/mijisou
-    - title: bimohxh/jsonon: A json online view
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/bimohxh/jsonon
-    - title: doprax建节点
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/baidu8/V2ray-for-Doprax
-    - title: Hexo-Theme-MengD
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/Lete114/Hexo-Theme-MengD
-    - title: onedrive-vercel-index
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/spencerwooo/onedrive-vercel-index
-    - title: Vercel(代码托管)
-      logo: https://api.iowen.cn/favicon/vercel.com.png
-      url: https://vercel.com/baidu8
-    - title: Home - Replit(代码托管)
-      logo: https://api.iowen.cn/favicon/replit.com.png
-      url: https://replit.com/~
-    - title: Render Dashboard
-      logo: https://api.iowen.cn/favicon/dashboard.render.com.png
-      url: https://dashboard.render.com/
-    - title: glitch（代码托管）
-      logo: https://api.iowen.cn/favicon/glitch.com.png
-      url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
-    - title: LeanCloud-静态评论
-      logo: https://api.iowen.cn/favicon/console.leancloud.app.png
-      url: https://console.leancloud.app/apps
-    - title: Freenom（免费域名）
-      logo: https://api.iowen.cn/favicon/my.freenom.com.png
-      url: https://my.freenom.com/clientarea.php
-    - title: 久伴云
-      logo: https://api.iowen.cn/favicon/6jds.top.png
-      url: https://6jds.top/
-    - title: hd授权中心
-      logo: https://api.iowen.cn/favicon/auth.ihewro.com.png
-      url: https://auth.ihewro.com/user/docs/#/
-    - title: 三国杀Online
-      logo: https://api.iowen.cn/favicon/sanguosha.com.png
-      url: https://sanguosha.com/
-    - title: 有道云笔记
-      logo: https://api.iowen.cn/favicon/note.youdao.com.png
-      url: https://note.youdao.com/old-web/#/file/recent/note/ED08CA1293514FF08D8F9CDF096B9035/
-    - title: 管理您的 Apple ID
-      logo: https://api.iowen.cn/favicon/appleid.apple.com.png
-      url: https://appleid.apple.com/account/manage
-    - title: Upstash: Serverless Data for Redis and Kafka, Console
-      logo: https://api.iowen.cn/favicon/console.upstash.com.png
-      url: https://console.upstash.com/
-    - title: QQ机器人
-      logo: https://api.iowen.cn/favicon/www.bilibili.com.png
-      url: https://www.bilibili.com/read/cv12059821
-    - title: 黑马Python
-      logo: https://api.iowen.cn/favicon/www.bilibili.com.png
-      url: https://www.bilibili.com/read/cv10593914
-    - title: 部署
-      logo: https://api.iowen.cn/favicon/docsify.js.org.png
-      url: https://docsify.js.org/#/zh-cn/deploy
-    - title: js屏蔽F12
-      logo: https://api.iowen.cn/favicon/www.jb51.net.png
-      url: https://www.jb51.net/article/196924.htm
-    - title: live-server使用
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/b4d952af7004
-    - title: 换脸 – 零度
-      logo: https://api.iowen.cn/favicon/www.freedidi.com.png
-      url: https://www.freedidi.com/5553.html
-    - title: AI 换脸教程
-      logo: https://api.iowen.cn/favicon/www.youtube.com.png
-      url: https://www.youtube.com/watch?v=NbS0v6CUwCg
-    - title: 插件Datatables使用
-      logo: https://api.iowen.cn/favicon/ops-coffee.cn.png
-      url: https://ops-coffee.cn/s/mx2gjlmo7jhkaggswf6ejw
-    - title: Vercel部署Typecho动态博客_Lete乐特的博客-CSDN博客_vercel部署
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/Lott0419/article/details/122508409
-    - title: DataTables学习
-      logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
-      url: https://www.cnblogs.com/chengxs/p/6290569.html
-    - title: .gitignore - 简书
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/699ed86028c2
-    - title: github中项目的上传（两种方法） - 简书
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/597c2cf8ffff
-    - title: 微信群机器人是怎么实现的？ - 知乎
-      logo: https://api.iowen.cn/favicon/www.zhihu.com.png
-      url: https://www.zhihu.com/question/46891356
-    - title: 如何在你的 GitHub 仓库介绍上加上小图标？ - 哔哩哔哩
-      logo: https://api.iowen.cn/favicon/www.bilibili.com.png
-      url: https://www.bilibili.com/read/cv16327331
-    - title: Hexo博客技巧：添加GitHub徽标_博客footer添加 github 徽标_Chak Aciano的博客-CSDN博客
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/weixin_58068682/article/details/116722983
-    - title: 针对不同屏幕大小加载不同的js代码_根据不同的屏幕宽度引入不同的js文件_qq_1350859242的博客-CSDN博客
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/qq_37885633/article/details/103804854
-    - title: Butterfly主题美化教程
-      logo: https://api.iowen.cn/favicon/butterfly.zhheo.com.png
-      url: https://butterfly.zhheo.com/
-    - title: 利用Github Actions自动化部署你Hexo博客 | Xlenco
-      logo: https://api.iowen.cn/favicon/blog.xlenco.top.png
-      url: https://blog.xlenco.top/posts/77e3.html
-    - title: hexo插件-视频播放器 | 坚定信念勇往直前
-      logo: https://api.iowen.cn/favicon/www.ht920.com.png
-      url: https://www.ht920.com/2020/04/08/third-blog-video/
-    - title: 使用GitHub Actions实现Hexo博客自动发布_new repository secret_测试开发小记的博客-CSDN博客
-      logo: https://api.iowen.cn/favicon/blog.csdn.net.png
-      url: https://blog.csdn.net/u010698107/article/details/120476856
-    - title: 使用 github+Action 部署 Hexo 博客 - 简书
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/d20ce9be4c6e
-    - title: 处理谷歌浏览器导出书签为json格式 - 简书
-      logo: https://api.iowen.cn/favicon/www.jianshu.com.png
-      url: https://www.jianshu.com/p/45677cd1a752
-    - title: mv合集
-      logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
-      url: https://www.aliyundrive.com/s/jsNeewKA9yM
-    - title: 10t电视剧‘
-      logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
-      url: https://www.aliyundrive.com/s/kJJ6WDG9Ntw
-    - title: 88-21奥斯卡
-      logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
-      url: https://www.aliyundrive.com/s/xhbhEVGYf8D/folder/root
-    - title: 阿里云盘资源分享
-      logo: https://api.iowen.cn/favicon/docs.qq.com.png
-      url: https://docs.qq.com/sheet/DUllHUnhoanpCZlRD?tab=BB08J2&_t=1676717052164
-    - title: UP云搜
-      logo: https://api.iowen.cn/favicon/www.upyunso.com.png
-      url: https://www.upyunso.com/
-    - title: UP云搜发布页
-      logo: https://api.iowen.cn/favicon/www.upyunso3.com.png
-      url: https://www.upyunso3.com/
-    - title: 优聚搜
-      logo: https://api.iowen.cn/favicon/v3.ujuso.com.png
-      url: https://v3.ujuso.com/
-    - title: Ping查询
-      logo: https://api.iowen.cn/favicon/tools.ipip.net.png
-      url: https://tools.ipip.net/ping.php
-    - title: 代码压缩格式化
-      logo: https://api.iowen.cn/favicon/www.tuimgs.com.png
-      url: https://www.tuimgs.com/jsgeshi.html
-    - title: 17CE
-      logo: https://api.iowen.cn/favicon/17ce.com.png
-      url: http://17ce.com/
-    - title: 高清海报
-      logo: https://api.iowen.cn/favicon/qlou.cc.png
-      url: https://qlou.cc/yxym
-    - title: 有道翻译
-      logo: https://api.iowen.cn/favicon/fanyi.youdao.com.png
-      url: https://fanyi.youdao.com/index.html#/
-    - title: 下载 Instagram 照片、视频、故事、IGTV、REELS，为 PC、iPhone 和 An…
-      logo: https://api.iowen.cn/favicon/sssinstagram.com.png
-      url: https://sssinstagram.com/zh
-    - title: baidu8
-      logo: https://api.iowen.cn/favicon/github.com.png
-      url: https://github.com/baidu8
-    - title: 仪表板
-      logo: https://api.iowen.cn/favicon/www.doprax.com.png
-      url: https://www.doprax.com/u/n726817119/
-    - title: Home - Replit
-      logo: https://api.iowen.cn/favicon/replit.com.png
-      url: https://replit.com/~
-    - title: Cloudflare | Web Performance & Security
-      logo: https://api.iowen.cn/favicon/dash.cloudflare.com.png
-      url: https://dash.cloudflare.com/56d2eae64975328ca874a9def1b136e2
-    - title: Heroku
-      logo: https://api.iowen.cn/favicon/dashboard.heroku.com.png
-      url: https://dashboard.heroku.com/apps
-    - title: uniCloud
-      logo: https://api.iowen.cn/favicon/unicloud.dcloud.net.cn.png
-      url: https://unicloud.dcloud.net.cn/home
-    - title: 阿里云盘
-      logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
-      url: https://www.aliyundrive.com/drive
-    - title: 豆瓣🐜
-      logo: https://api.iowen.cn/favicon/www.douban.com.png
-      url: https://www.douban.com/people/n726817119/
-    - title: Z-Library
-      logo: https://api.iowen.cn/favicon/zlibrary.ml.png
-      url: https://zlibrary.ml/
-    - title: 一个远程浏览器
-      logo: https://api.iowen.cn/favicon/hyperbeam.com.png
-      url: https://hyperbeam.com/
-    - title: VPN Gate: 公共 VPN 中继服务器列表
-      logo: https://api.iowen.cn/favicon/www.vpngate.net.png
-      url: https://www.vpngate.net/cn/
-    - title: Free VPN支持open
-      logo: https://api.iowen.cn/favicon/spotssh.com.png
-      url: https://spotssh.com/vpn-list
-    - title: 一元机场
-      logo: https://api.iowen.cn/favicon/xn--4gq62f52gdss.com.png
-      url: https://xn--4gq62f52gdss.com/#/login
-    - title: 江小白uusb
-      logo: https://api.iowen.cn/favicon/uusb.cf.png
-      url: https://uusb.cf/
-    - title: 1ove - 小白云盘
-      logo: https://api.iowen.cn/favicon/drive.uusb.cf.png
-      url: https://drive.uusb.cf/
-    - title: baidu8
-      logo: https://api.iowen.cn/favicon/baidu8.github.io.png
-      url: https://baidu8.github.io/
-    - title: Ganbi
-      logo: https://api.iowen.cn/favicon/ganbi.top.png
-      url: https://ganbi.top/
-    - title: 网址导航
-      logo: https://api.iowen.cn/favicon/nav.uusb.cf.png
-      url: https://nav.uusb.cf/
-    - title: 小白搜索
-      logo: https://api.iowen.cn/favicon/al.ganbi.top.png
-      url: https://al.ganbi.top/
+      - title: 豆瓣🐜
+        logo: https://api.iowen.cn/favicon/www.douban.com.png
+        url: https://www.douban.com/people/n726817119/
+
+- taxonomy: 测试
+  icon: fas fa-music fa-lg
+  list:
+    - term: 🥂🥂🥂
+      links:
+      - title: MSDN库
+        logo: https://api.iowen.cn/favicon/www.xitongku.com.png
+        url: https://www.xitongku.com/
+      - title: TechBench
+        logo: https://api.iowen.cn/favicon/tb.rg-adguard.net.png
+        url: https://tb.rg-adguard.net/public.php?lang=zh-CN
+      - title: ITELLYOU
+        logo: https://api.iowen.cn/favicon/next.itellyou.cn.png
+        url: https://next.itellyou.cn/
+      - title: MSDN
+        logo: https://api.iowen.cn/favicon/msdn.itellyou.cn.png
+        url: https://msdn.itellyou.cn/
+      - title: 深度系统
+        logo: https://api.iowen.cn/favicon/www.deepin.org.png
+        url: https://www.deepin.org/zh/
+      - title: CentOS
+        logo: https://api.iowen.cn/favicon/www.centos.org.png
+        url: https://www.centos.org/
+      - title: JERRY-SYSTEM
+        logo: https://api.iowen.cn/favicon/pcos.ml.png
+        url: https://pcos.ml/app.html
+      - title: Sleazy Fork
+        logo: https://api.iowen.cn/favicon/sleazyfork.org.png
+        url: https://sleazyfork.org/zh-CN
+      - title: Greasy Fork
+        logo: https://api.iowen.cn/favicon/greasyfork.org.png
+        url: https://greasyfork.org/zh-CN
+      - title: 扩展迷
+        logo: https://api.iowen.cn/favicon/www.extfans.com.png
+        url: https://www.extfans.com/
+      - title: 扩展派
+        logo: https://api.iowen.cn/favicon/www.crxfun.com.png
+        url: https://www.crxfun.com/
+      - title: 油猴中文
+        logo: https://api.iowen.cn/favicon/bbs.tampermonkey.net.cn.png
+        url: https://bbs.tampermonkey.net.cn/
+      - title: Crx搜搜
+        logo: https://api.iowen.cn/favicon/www.crxsoso.com.png
+        url: https://www.crxsoso.com/
+      - title: Infinity
+        logo: https://api.iowen.cn/favicon/cn.infinitynewtab.com.png
+        url: https://cn.infinitynewtab.com/
+      - title: Microsoft
+        logo: https://api.iowen.cn/favicon/apps.microsoft.com.png
+        url: https://apps.microsoft.com/store/apps
+      - title: 替代软件
+        logo: https://api.iowen.cn/favicon/alternativeto.net.png
+        url: https://alternativeto.net/
+      - title: 软件先锋
+        logo: https://api.iowen.cn/favicon/soft.macxf.com.png
+        url: https://soft.macxf.com/
+      - title: Winstep
+        logo: https://api.iowen.cn/favicon/www.winstep.net.png
+        url: http://www.winstep.net/
+      - title: 致美化
+        logo: https://api.iowen.cn/favicon/zhutix.com.png
+        url: https://zhutix.com/
+      - title: Watt Toolkit
+        logo: https://api.iowen.cn/favicon/steampp.net.png
+        url: https://steampp.net/
+      - title: Snipaste
+        logo: https://api.iowen.cn/favicon/zh.snipaste.com.png
+        url: https://zh.snipaste.com/
+      - title: 视频下载器
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/KurtBestor/Hitomi-Downloader#supported-sites
+      - title: 哔哩下载姬
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/leiurayer/downkyi
+      - title: ReNamer
+        logo: https://api.iowen.cn/favicon/www.den4b.com.png
+        url: http://www.den4b.com/products/renamer
+      - title: droplt
+        logo: https://api.iowen.cn/favicon/www.dropitproject.com.png
+        url: http://www.dropitproject.com/
+      - title: Geek
+        logo: https://api.iowen.cn/favicon/geekuninstaller.com.png
+        url: https://geekuninstaller.com/
+      - title: IDM中文网
+        logo: https://api.iowen.cn/favicon/www.idmchina.net.png
+        url: https://www.idmchina.net/
+      - title: 格式工厂
+        logo: https://api.iowen.cn/favicon/www.pcgeshi.com.png
+        url: http://www.pcgeshi.com/index.html
+      - title: Download - Faceswap
+        logo: https://api.iowen.cn/favicon/faceswap.dev.png
+        url: https://faceswap.dev/download/
+      - title: qq机器人
+        logo: https://api.iowen.cn/favicon/drea.cc.png
+        url: https://drea.cc/
+      - title: Clouddrive2更新地址
+        logo: https://api.iowen.cn/favicon/www.52pojie.cn.png
+        url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1729226
+      - title: Jay的资源库 | 互联网资源集大成者
+        logo: https://api.iowen.cn/favicon/www.lovejay.top.png
+        url: https://www.lovejay.top/
+      - title: 静态资源托管库
+        logo: https://api.iowen.cn/favicon/cdn.baomitu.com.png
+        url: https://cdn.baomitu.com/
+      - title: npm
+        logo: https://api.iowen.cn/favicon/www.npmjs.com.png
+        url: https://www.npmjs.com/
+      - title: 51链
+        logo: https://api.iowen.cn/favicon/www.51link.com.png
+        url: https://www.51link.com/
+      - title: 站长资源
+        logo: https://api.iowen.cn/favicon/www.2898.com.png
+        url: https://www.2898.com/
+      - title: 大淘客
+        logo: https://api.iowen.cn/favicon/www.dataoke.com.png
+        url: https://www.dataoke.com/pmc/index.html
+      - title: Feather
+        logo: https://api.iowen.cn/favicon/feathericons.com.png
+        url: https://feathericons.com/
+      - title: Font Awesome
+        logo: https://api.iowen.cn/favicon/www.fontawesome.com.cn.png
+        url: http://www.fontawesome.com.cn/faicons/
+      - title: 阿里图标
+        logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
+        url: https://www.iconfont.cn/manage/index?spm=a313x.7781069.1998910419.13&manage_type=myprojects&projectId=2461393&keyword=&project_type=&page=
+      - title: Typecho主题
+        logo: https://api.iowen.cn/favicon/www.moidea.info.png
+        url: https://www.moidea.info/t/themes/
+      - title: Hexo-Stellar
+        logo: https://api.iowen.cn/favicon/xaoxuu.com.png
+        url: https://xaoxuu.com/wiki/stellar/
+      - title: DPlayer
+        logo: https://api.iowen.cn/favicon/dplayer.js.org.png
+        url: http://dplayer.js.org/zh/guide.html#special-thanks
+      - title: DPlayer
+        logo: https://api.iowen.cn/favicon/dplayer.diygod.dev.png
+        url: https://dplayer.diygod.dev/
+      - title: APlayer
+        logo: https://api.iowen.cn/favicon/aplayer.js.org.png
+        url: https://aplayer.js.org/#/
+      - title: Bootstrap
+        logo: https://api.iowen.cn/favicon/v3.bootcss.com.png
+        url: https://v3.bootcss.com/components/#glyphicons
+      - title: MDUI-框架
+        logo: https://api.iowen.cn/favicon/www.mdui.org.png
+        url: https://www.mdui.org/
+      - title: UIkit-框架
+        logo: https://api.iowen.cn/favicon/getuikit.com.png
+        url: https://getuikit.com/docs/introduction
+      - title: Element
+        logo: https://api.iowen.cn/favicon/element.eleme.cn.png
+        url: https://element.eleme.cn/#/zh-CN/component/carousel
+      - title: Electron
+        logo: https://api.iowen.cn/favicon/www.electronjs.org.png
+        url: https://www.electronjs.org/
+      - title: 故梦-API
+        logo: https://api.iowen.cn/favicon/docs.api.gmit.vip.png
+        url: https://docs.api.gmit.vip/#/
+      - title: 今日诗词
+        logo: https://api.iowen.cn/favicon/www.jinrishici.com.png
+        url: https://www.jinrishici.com/
+      - title: 小歪api
+        logo: https://api.iowen.cn/favicon/api.ixiaowai.cn.png
+        url: https://api.ixiaowai.cn/
+      - title: 远昔APi
+        logo: https://api.iowen.cn/favicon/yuanxiapi.cn.png
+        url: https://yuanxiapi.cn/
+      - title: 优刻短网址
+        logo: https://api.iowen.cn/favicon/e9u.cn.png
+        url: https://e9u.cn/
+      - title: MyUrls-短链
+        logo: https://api.iowen.cn/favicon/suo.yt.png
+        url: https://suo.yt/
+      - title: i8.gs
+        logo: https://api.iowen.cn/favicon/i8.gs.png
+        url: https://i8.gs/
+      - title: 9io-短链
+        logo: https://api.iowen.cn/favicon/9io.net.png
+        url: https://9io.net/?url=
+      - title: 旧爱短网址
+        logo: https://api.iowen.cn/favicon/dwz.gay.png
+        url: http://dwz.gay/
+      - title: 融兴采集
+        logo: https://api.iowen.cn/favicon/video.rongxingvr.cn.png
+        url: https://video.rongxingvr.cn/
+      - title: M3U8解析
+        logo: https://api.iowen.cn/favicon/www.m3u8.tv.png
+        url: http://www.m3u8.tv/
+      - title: 3D地球-网站统计
+        logo: https://api.iowen.cn/favicon/www.revolvermaps.com.png
+        url: https://www.revolvermaps.com/
+      - title: 语句接口 | 一言开发者中心
+        logo: https://api.iowen.cn/favicon/developer.hitokoto.cn.png
+        url: https://developer.hitokoto.cn/sentence/#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0
+      - title: 一为Api - 专业API提供 - 一为忆博客(iowen.cn)
+        logo: https://api.iowen.cn/favicon/api.iowen.cn.png
+        url: https://api.iowen.cn/
+      - title: 页脚图标生成
+        logo: https://api.iowen.cn/favicon/shields.io.png
+        url: https://shields.io/
+      - title: 老王图床
+        logo: https://api.iowen.cn/favicon/img.gejiba.com.png
+        url: https://img.gejiba.com/
+      - title: Lsky Pro
+        logo: https://api.iowen.cn/favicon/www.icpbk.com.png
+        url: https://www.icpbk.com/
+      - title: ThumbSnap
+        logo: https://api.iowen.cn/favicon/thumbsnap.com.png
+        url: https://thumbsnap.com/
+      - title: 可道云
+        logo: https://api.iowen.cn/favicon/kodcloud.com.png
+        url: https://kodcloud.com/
+      - title: MacCMS
+        logo: https://api.iowen.cn/favicon/cms.jnjddz.com.png
+        url: https://cms.jnjddz.com/
+      - title: Datatables
+        logo: https://api.iowen.cn/favicon/datatables.club.png
+        url: http://datatables.club/
+      - title: 🗂️ Alist
+        logo: https://api.iowen.cn/favicon/alist.nn.ci.png
+        url: https://alist.nn.ci/
+      - title: Cloudreve - 部署公私兼备的网盘系统
+        logo: https://api.iowen.cn/favicon/cloudreve.org.png
+        url: https://cloudreve.org/
+      - title: Single-file PHP file manager, browser and photo gallery | Files
+        logo: https://api.iowen.cn/favicon/www.files.gallery.png
+        url: https://www.files.gallery/
+      - title: 小白工具
+        logo: https://api.iowen.cn/favicon/www.ooopn.com.png
+        url: https://www.ooopn.com/tool/zlibrary/
+      - title: UU工具
+        logo: https://api.iowen.cn/favicon/uutool.cn.png
+        url: https://uutool.cn/
+      - title: 太美工具
+        logo: https://api.iowen.cn/favicon/tiomg.org.png
+        url: https://tiomg.org/
+      - title: Clipchamp
+        logo: https://api.iowen.cn/favicon/app.clipchamp.com.png
+        url: https://app.clipchamp.com/
+      - title: 流量精灵
+        logo: https://api.iowen.cn/favicon/www.ipjingling.com.png
+        url: http://www.ipjingling.com/index.php
+      - title: 草料二维码
+        logo: https://api.iowen.cn/favicon/cli.im.png
+        url: https://cli.im/deqr/
+      - title: 文档转换
+        logo: https://api.iowen.cn/favicon/www.aconvert.com.png
+        url: https://www.aconvert.com/cn/
+      - title: 链接生成器
+        logo: https://api.iowen.cn/favicon/tools.jb51.net.png
+        url: http://tools.jb51.net/aideddesign/ljscq
+      - title: 链接提取
+        logo: https://api.iowen.cn/favicon/uutool.cn.png
+        url: https://uutool.cn/extract-link/
+      - title: 在线文本去空行工具 - UU在线工具
+        logo: https://api.iowen.cn/favicon/uutool.cn.png
+        url: https://uutool.cn/nl-trim/
+      - title: 口令 ｜ 传输
+        logo: https://api.iowen.cn/favicon/600s.com.png
+        url: https://600s.com/fake
+      - title: 文件快递柜
+        logo: https://api.iowen.cn/favicon/share.u2.cm.png
+        url: https://share.u2.cm/
+      - title: 生成新拟态
+        logo: https://api.iowen.cn/favicon/neumorphism.io.png
+        url: https://neumorphism.io/#e0e0e0
+      - title: Favicon.ico图标生成器
+        logo: https://api.iowen.cn/favicon/www.logosc.cn.png
+        url: https://www.logosc.cn/logo/favicon
+      - title: md编辑器
+        logo: https://api.iowen.cn/favicon/tool.lu.png
+        url: https://tool.lu/markdown/
+      - title: myCompiler
+        logo: https://api.iowen.cn/favicon/www.mycompiler.io.png
+        url: https://www.mycompiler.io/
+      - title: MaHua
+        logo: https://api.iowen.cn/favicon/mahua.jser.me.png
+        url: http://mahua.jser.me/
+      - title: Editor.md
+        logo: https://api.iowen.cn/favicon/pandao.github.io.png
+        url: https://pandao.github.io/editor.md/
+      - title: office
+        logo: https://api.iowen.cn/favicon/www.office.com.png
+        url: https://www.office.com/
+      - title: 欢迎 - 工作区 - Visual Studio Code
+        logo: https://api.iowen.cn/favicon/vscode.dev.png
+        url: https://vscode.dev/
+      - title: 阿里小站专用编辑器
+        logo: https://api.iowen.cn/favicon/restless-glitter-1b9a.alixiaozhan.workers.dev.png
+        url: https://restless-glitter-1b9a.alixiaozhan.workers.dev/
+      - title: bilibili
+        logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+        url: https://www.bilibili.com/
+      - title: AfreecaTV
+        logo: https://api.iowen.cn/favicon/www.afreecatv.com.png
+        url: https://www.afreecatv.com/
+      - title: 快手
+        logo: https://api.iowen.cn/favicon/live.kuaishou.com.png
+        url: https://live.kuaishou.com/v/hot/
+      - title: 搜片
+        logo: https://api.iowen.cn/favicon/soupian.app.png
+        url: https://soupian.app/
+      - title: 美剧虫
+        logo: https://api.iowen.cn/favicon/www.meijuchong.com.png
+        url: https://www.meijuchong.com/
+      - title: 美剧天堂
+        logo: https://api.iowen.cn/favicon/www.meijutt.tv.png
+        url: https://www.meijutt.tv/
+      - title: 低端影视
+        logo: https://api.iowen.cn/favicon/ddys.art.png
+        url: https://ddys.art/
+      - title: 低端影视 - 超清在线视频站
+        logo: https://api.iowen.cn/favicon/ddys.tv.png
+        url: https://ddys.tv/
+      - title: 哔嘀影视
+        logo: https://api.iowen.cn/favicon/www.btbdys.com.png
+        url: https://www.btbdys.com/
+      - title: 烧饼电影院
+        logo: https://api.iowen.cn/favicon/www.yufu3.com.png
+        url: https://www.yufu3.com/
+      - title: 射手网-字幕
+        logo: https://api.iowen.cn/favicon/assrt.net.png
+        url: http://assrt.net/
+      - title: 字幕库-字幕
+        logo: https://api.iowen.cn/favicon/zmk.pw.png
+        url: http://zmk.pw/
+      - title: 字幕Sub
+        logo: https://api.iowen.cn/favicon/subhd.tv.png
+        url: https://subhd.tv/
+      - title: SubHD字幕
+        logo: https://api.iowen.cn/favicon/subhdtw.com.png
+        url: https://subhdtw.com/
+      - title: Grab4K
+        logo: https://api.iowen.cn/favicon/www.grab4k.com.png
+        url: https://www.grab4k.com/
+      - title: 布谷TV
+        logo: https://api.iowen.cn/favicon/www.bugutv.net.png
+        url: https://www.bugutv.net/
+      - title: 4K圈
+        logo: https://api.iowen.cn/favicon/www.4kquan.com.png
+        url: http://www.4kquan.com/portal.php
+      - title: WebHD.cc
+        logo: https://api.iowen.cn/favicon/webhd.cc.png
+        url: https://webhd.cc/
+      - title: NEW字幕组
+        logo: https://api.iowen.cn/favicon/newzmz.com.png
+        url: https://newzmz.com/index.html
+      - title: YY
+        logo: https://api.iowen.cn/favicon/www.yy.com.png
+        url: https://www.yy.com/
+      - title: /
+        logo: https://api.iowen.cn/favicon/hefollo.com.png
+        url: https://hefollo.com/
+      - title: / - xKx写真库
+        logo: https://api.iowen.cn/favicon/sp.xkx.me.png
+        url: https://sp.xkx.me/
+      - title: OneDrive
+        logo: https://api.iowen.cn/favicon/odrive.azurewebsites.net.png
+        url: https://odrive.azurewebsites.net/od/
+      - title: 首页 - 远方盘
+        logo: https://api.iowen.cn/favicon/pan.ltyuanfang.cn.png
+        url: https://pan.ltyuanfang.cn/
+      - title: 比心的云盘
+        logo: https://api.iowen.cn/favicon/tengzhou.ren.png
+        url: https://tengzhou.ren/
+      - title: Alist
+        logo: https://api.iowen.cn/favicon/my.edui.fun.png
+        url: https://my.edui.fun/
+      - title: My drive
+        logo: https://api.iowen.cn/favicon/ali.kenvie.com.png
+        url: https://ali.kenvie.com/
+      - title: Cooluc's Blog
+        logo: https://api.iowen.cn/favicon/media.cooluc.com.png
+        url: https://media.cooluc.com/
+      - title: 清风
+        logo: https://api.iowen.cn/favicon/pan.woriqq.com.png
+        url: https://pan.woriqq.com/
+      - title: 123云盘
+        logo: https://api.iowen.cn/favicon/www.123pan.com.png
+        url: https://www.123pan.com/login
+      - title: 快乐盘
+        logo: https://api.iowen.cn/favicon/pan.klxq.icu.png
+        url: https://pan.klxq.icu/
+      - title: 小雅的分类 Alist
+        logo: https://api.iowen.cn/favicon/alist.xiaoya.pro.png
+        url: http://alist.xiaoya.pro/
+      - title: 主页 | 百克云盘
+        logo: https://api.iowen.cn/favicon/pan.peico.cn.png
+        url: http://pan.peico.cn/
+      - title: 主页 | 记忆储藏，百鸟思慕
+        logo: https://api.iowen.cn/favicon/cloud.avbk.cn.png
+        url: https://cloud.avbk.cn/
+      - title: 图欧学习资源库
+        logo: https://api.iowen.cn/favicon/tuostudy.com.png
+        url: https://tuostudy.com/
+      - title: 天翼小站
+        logo: https://api.iowen.cn/favicon/yun.hei521.cn.png
+        url: https://yun.hei521.cn/
+      - title: 盘盘资源
+        logo: https://api.iowen.cn/favicon/www.panpanr.com.png
+        url: https://www.panpanr.com/
+      - title: 阿里云盘网
+        logo: https://api.iowen.cn/favicon/www.ypfxw.cn.png
+        url: http://www.ypfxw.cn/
+      - title: OneDrive
+        logo: https://api.iowen.cn/favicon/onedrive.live.com.png
+        url: https://onedrive.live.com/
+      - title: 我的文件 - OneDrive
+        logo: https://api.iowen.cn/favicon/1ovefree-my.sharepoint.com.png
+        url: https://1ovefree-my.sharepoint.com/personal/niubi_1ove_eu_org/_layouts/15/onedrive.aspx
+      - title: PikPak
+        logo: https://api.iowen.cn/favicon/mypikpak.com.png
+        url: https://mypikpak.com/drive/all
+      - title: 天翼云盘
+        logo: https://api.iowen.cn/favicon/cloud.189.cn.png
+        url: https://cloud.189.cn/web/login.html
+      - title: 百度网盘
+        logo: https://api.iowen.cn/favicon/pan.baidu.com.png
+        url: https://pan.baidu.com/
+      - title: 夸克网盘
+        logo: https://api.iowen.cn/favicon/pan.quark.cn.png
+        url: https://pan.quark.cn/#/list/all
+      - title: 蓝奏云
+        logo: https://api.iowen.cn/favicon/up.woozooo.com.png
+        url: https://up.woozooo.com/u
+      - title: vivo云服务
+        logo: https://api.iowen.cn/favicon/yun.vivo.com.cn.png
+        url: https://yun.vivo.com.cn/#/home
+      - title: 百度网盘
+        logo: https://api.iowen.cn/favicon/pan.baidu.com.png
+        url: https://pan.baidu.com/disk/main#/index
+      - title: 和彩云
+        logo: https://api.iowen.cn/favicon/yun.139.com.png
+        url: https://yun.139.com/w/#/
+      - title: 优梦_云盘
+        logo: https://api.iowen.cn/favicon/pan.aoxix.com.png
+        url: https://pan.aoxix.com/user/index
+      - title: Teambition
+        logo: https://api.iowen.cn/favicon/www.teambition.com.png
+        url: https://www.teambition.com/
+      - title: 可道云个人
+        logo: https://api.iowen.cn/favicon/disk.ningsuan.com.cn.png
+        url: https://disk.ningsuan.com.cn/
+      - title: 坚果云
+        logo: https://api.iowen.cn/favicon/www.jianguoyun.com.png
+        url: https://www.jianguoyun.com/#/
+      - title: All-in-one
+        logo: https://api.iowen.cn/favicon/drive.imgod.me.png
+        url: https://drive.imgod.me/login
+      - title: iCloud
+        logo: https://api.iowen.cn/favicon/www.icloud.com.png
+        url: https://www.icloud.com/
+      - title: e5订阅
+        logo: https://api.iowen.cn/favicon/developer.microsoft.com.png
+        url: https://developer.microsoft.com/zh-cn/microsoft-365/profile
+      - title: 1ove论坛
+        logo: https://api.iowen.cn/favicon/bbs.1ove.club.png
+        url: https://bbs.1ove.club/forum-7.htm
+      - title: 吾爱破解
+        logo: https://api.iowen.cn/favicon/www.52pojie.cn.png
+        url: https://www.52pojie.cn/
+      - title: V2EX
+        logo: https://api.iowen.cn/favicon/v2ex.com.png
+        url: https://v2ex.com/
+      - title: ai换脸论坛
+        logo: https://api.iowen.cn/favicon/dfldata.xyz.png
+        url: https://dfldata.xyz/forum.php
+      - title: 阿里云盘资源共享站
+        logo: https://api.iowen.cn/favicon/pan666.cn.png
+        url: https://pan666.cn/#upyunso.com
+      - title: 我的小站-阿里云盘资源共享站
+        logo: https://api.iowen.cn/favicon/newxiaozhan.com.png
+        url: https://newxiaozhan.com/
+      - title: 小歪博客
+        logo: https://api.iowen.cn/favicon/blog.ixiaowai.cn.png
+        url: https://blog.ixiaowai.cn/
+      - title: 夜雨聆风
+        logo: https://api.iowen.cn/favicon/www.yeyulingfeng.com.png
+        url: https://www.yeyulingfeng.com/
+      - title: 小枫网络
+        logo: https://api.iowen.cn/favicon/www.xfwl.club.png
+        url: https://www.xfwl.club/
+      - title: 韩小韩
+        logo: https://api.iowen.cn/favicon/www.vvhan.com.png
+        url: https://www.vvhan.com/
+      - title: 缥缈博客
+        logo: https://api.iowen.cn/favicon/blog.btstu.cn.png
+        url: https://blog.btstu.cn/
+      - title: AE博客
+        logo: https://api.iowen.cn/favicon/www.aeink.com.png
+        url: http://www.aeink.com/
+      - title: 天蝎雨
+        logo: https://api.iowen.cn/favicon/scorain.com.png
+        url: https://scorain.com/
+      - title: 缤纷彩虹
+        logo: https://api.iowen.cn/favicon/blog.cccyun.cn.png
+        url: http://blog.cccyun.cn/
+      - title: 技术松鼠
+        logo: https://api.iowen.cn/favicon/www.jishusongshu.com.png
+        url: https://www.jishusongshu.com/
+      - title: 站长素材
+        logo: https://api.iowen.cn/favicon/www.zztuku.com.png
+        url: https://www.zztuku.com/
+      - title: Eonegh's Blog
+        logo: https://api.iowen.cn/favicon/eonegh.com.png
+        url: https://eonegh.com/
+      - title: 李峰博客
+        logo: https://api.iowen.cn/favicon/www.lifeng.in.png
+        url: https://www.lifeng.in/12642.html
+      - title: MiniCMS
+        logo: https://api.iowen.cn/favicon/1234n.com.png
+        url: http://1234n.com/?projects/minicms/
+      - title: Yovi's Blog
+        logo: https://api.iowen.cn/favicon/www.yovisun.com.png
+        url: http://www.yovisun.com/
+      - title: Lime's Blog
+        logo: https://api.iowen.cn/favicon/blog.qninq.cn.png
+        url: https://blog.qninq.cn/
+      - title: HCLonely
+        logo: https://api.iowen.cn/favicon/blog.hclonely.com.png
+        url: https://blog.hclonely.com/
+      - title: 远昔博客
+        logo: https://api.iowen.cn/favicon/www.yuanxiblog.cn.png
+        url: https://www.yuanxiblog.cn/
+      - title: Nite07小窝
+        logo: https://api.iowen.cn/favicon/www.nite07.com.png
+        url: https://www.nite07.com/
+      - title: 井犯博客
+        logo: https://api.iowen.cn/favicon/nicejf.cn.png
+        url: https://nicejf.cn/
+      - title: 孟坤博客
+        logo: https://api.iowen.cn/favicon/mkblog.cn.png
+        url: https://mkblog.cn/
+      - title: 梓宸的小屋
+        logo: https://api.iowen.cn/favicon/zichen.zone.png
+        url: https://zichen.zone/
+      - title: MengD(萌典)
+        logo: https://api.iowen.cn/favicon/mengd.js.org.png
+        url: https://mengd.js.org/
+      - title: 萌通社区
+        logo: https://api.iowen.cn/favicon/www.umtp.cn.png
+        url: https://www.umtp.cn/
+      - title: 梅塔沃克 - 专注跨境
+        logo: https://api.iowen.cn/favicon/iweec.com.png
+        url: https://iweec.com/
+      - title: 竹山一叶 - 竹山一叶的小家
+        logo: https://api.iowen.cn/favicon/zsyyblog.com.png
+        url: https://zsyyblog.com/
+      - title: Lete乐特的小窝
+        logo: https://api.iowen.cn/favicon/www.imlete.cn.png
+        url: https://www.imlete.cn/
+      - title: 首页 - 贝贝工具站
+        logo: https://api.iowen.cn/favicon/xbeibeix.com.png
+        url: https://xbeibeix.com/
+      - title: 章鱼猫先生 · 语雀
+        logo: https://api.iowen.cn/favicon/www.yuque.com.png
+        url: https://www.yuque.com/shenweiyan
+      - title: Akilarの糖果屋 - Akilar.top
+        logo: https://api.iowen.cn/favicon/akilar.top.png
+        url: https://akilar.top/
+      - title: Butterfly - A Simple and Card UI Design theme for Hexo
+        logo: https://api.iowen.cn/favicon/butterfly.js.org.png
+        url: https://butterfly.js.org/
+      - title: metowolf/MetingJS: A powerful plugin connect APlayer and Meting
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/metowolf/MetingJS
+      - title: 一为忆 | 分享资源分享精品内容。
+        logo: https://api.iowen.cn/favicon/www.iowen.cn.png
+        url: https://www.iowen.cn/
+      - title: Leonus - 进一寸有进一寸的欢喜。
+        logo: https://api.iowen.cn/favicon/blog.leonus.cn.png
+        url: https://blog.leonus.cn/
+      - title: 轻笑Chuckle
+        logo: https://api.iowen.cn/favicon/www.chuckle.top.png
+        url: https://www.chuckle.top/
+      - title: 枢衡の巢 | 一只小乌鸦的学习日记
+        logo: https://api.iowen.cn/favicon/www.crowhsu.top.png
+        url: https://www.crowhsu.top/
+      - title: 小冰博客 - 做个有梦想的人！
+        logo: https://api.iowen.cn/favicon/zfe.space.png
+        url: https://zfe.space/
+      - title: Ariasakaの小窝
+        logo: https://api.iowen.cn/favicon/yisous.xyz.png
+        url: https://yisous.xyz/
+      - title: 必应每日
+        logo: https://api.iowen.cn/favicon/bing.ioliu.cn.png
+        url: https://bing.ioliu.cn/
+      - title: 正版图片
+        logo: https://api.iowen.cn/favicon/pixabay.com.png
+        url: https://pixabay.com/zh/
+      - title: MYFREEMP3
+        logo: https://api.iowen.cn/favicon/tools.liumingye.cn.png
+        url: http://tools.liumingye.cn/music/?page=searchPage
+      - title: 可可DJ
+        logo: https://api.iowen.cn/favicon/www.kekedj.com.png
+        url: https://www.kekedj.com/
+      - title: 菜鸟教程
+        logo: https://api.iowen.cn/favicon/www.runoob.com.png
+        url: https://www.runoob.com/
+      - title: w3在线教程
+        logo: https://api.iowen.cn/favicon/www.w3school.com.cn.png
+        url: https://www.w3school.com.cn/
+      - title: MV下载王
+        logo: https://api.iowen.cn/favicon/mvxz.com.png
+        url: http://mvxz.com/?home
+      - title: Edui-导航
+        logo: https://api.iowen.cn/favicon/edui123.com.png
+        url: https://edui123.com/
+      - title: 氪主页
+        logo: https://api.iowen.cn/favicon/www.51kim.com.png
+        url: https://www.51kim.com/
+      - title: SearXNG and searx instances
+        logo: https://api.iowen.cn/favicon/searx.space.png
+        url: https://searx.space/
+      - title: 嗨PC主页
+        logo: https://api.iowen.cn/favicon/www.haipc.cn.png
+        url: https://www.haipc.cn/
+      - title: 无追搜索
+        logo: https://api.iowen.cn/favicon/www.wuzhuiso.com.png
+        url: https://www.wuzhuiso.com/
+      - title: 聚神铺
+        logo: https://api.iowen.cn/favicon/www.jspoo.com.png
+        url: https://www.jspoo.com/
+      - title: 蓝莓投屏官网 | 投屏SDK | 投屏方案 | 支持Airplay/DLNA,免费好用的投屏App
+        logo: https://api.iowen.cn/favicon/www.deeprd.com.png
+        url: http://www.deeprd.com/
+      - title: ChatGPT中文网
+        logo: https://api.iowen.cn/favicon/ai.d8bi.cn.png
+        url: http://ai.d8bi.cn/index.php
+      - title: https://www.cocservice.top/update/0487-Pet-House
+        logo: https://api.iowen.cn/favicon/www.cocservice.top.png
+        url: https://www.cocservice.top/update/0487-Pet-House
+      - title: cixingguangming55555/wechat-bot: 带二次开发接口的PC微信聊天机器人
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/cixingguangming55555/wechat-bot
+      - title: QQ推广
+        logo: https://api.iowen.cn/favicon/shang.qq.com.png
+        url: https://shang.qq.com/v3/widget.html
+      - title: QQ邮箱
+        logo: https://api.iowen.cn/favicon/mail.qq.com.png
+        url: https://mail.qq.com/
+      - title: 腾讯微云
+        logo: https://api.iowen.cn/favicon/www.weiyun.com.png
+        url: https://www.weiyun.com/disk
+      - title: 腾讯文档
+        logo: https://api.iowen.cn/favicon/docs.qq.com.png
+        url: https://docs.qq.com/desktop/?u=cbf8fc79db334ed9be02f3d5a3486e5b
+      - title: 腾讯视频
+        logo: https://api.iowen.cn/favicon/v.qq.com.png
+        url: https://v.qq.com/
+      - title: 百度翻译
+        logo: https://api.iowen.cn/favicon/fanyi.baidu.com.png
+        url: https://fanyi.baidu.com/
+      - title: 百度统计
+        logo: https://api.iowen.cn/favicon/tongji.baidu.com.png
+        url: https://tongji.baidu.com/main/homepage/10000306886/homepage/index
+      - title: 百度CDN
+        logo: https://api.iowen.cn/favicon/su.baidu.com.png
+        url: https://su.baidu.com/console/index.html#/accountconfig
+      - title: 百度搜索榜
+        logo: https://api.iowen.cn/favicon/top.baidu.com.png
+        url: http://top.baidu.com/?vit=1&fr=topboards
+      - title: YouTube
+        logo: https://api.iowen.cn/favicon/www.youtube.com.png
+        url: https://www.youtube.com/
+      - title: Google
+        logo: https://api.iowen.cn/favicon/www.google.com.png
+        url: https://www.google.com/
+      - title: 图片
+        logo: https://api.iowen.cn/favicon/www.google.com.png
+        url: https://www.google.com/imghp?hl=zh-CN
+      - title: 地图
+        logo: https://api.iowen.cn/favicon/maps.google.com.png
+        url: https://maps.google.com/
+      - title: Gmail
+        logo: https://api.iowen.cn/favicon/accounts.google.com.png
+        url: https://accounts.google.com/b/0/AddMailService
+      - title: 翻译
+        logo: https://api.iowen.cn/favicon/translate.google.com.png
+        url: https://translate.google.com/?hl=zh-CN&tab=TT
+      - title: 云端硬盘
+        logo: https://api.iowen.cn/favicon/drive.google.com.png
+        url: https://drive.google.com/drive/
+      - title: 谷歌字体
+        logo: https://api.iowen.cn/favicon/fonts.google.com.png
+        url: https://fonts.google.com/
+      - title: 淘宝联盟
+        logo: https://api.iowen.cn/favicon/pub.alimama.com.png
+        url: https://pub.alimama.com/?spm=a219t.46807174.0.0.4f1575a5UpwtUS
+      - title: AdSense
+        logo: https://api.iowen.cn/favicon/www.google.com.png
+        url: https://www.google.com/adsense/start/
+      - title: FeHelper
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/zxlie/FeHelper
+      - title: OneManager
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/qkqpttgf/OneManager-php
+      - title: alist-heroku
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/sbwml/alist-heroku
+      - title: sharelist
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/reruin/sharelist
+      - title: WebStack
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/WebStackPage/WebStackPage.github.io
+      - title: v2项目
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/2dust
+      - title: PDFSigner
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/hibem/PDFSigner
+      - title: docsifyjs
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/docsifyjs/docsify
+      - title: virzs/Search
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/virzs/Search
+      - title: 秘笈搜索
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/entropage/mijisou
+      - title: bimohxh/jsonon: A json online view
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/bimohxh/jsonon
+      - title: doprax建节点
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/baidu8/V2ray-for-Doprax
+      - title: Hexo-Theme-MengD
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/Lete114/Hexo-Theme-MengD
+      - title: onedrive-vercel-index
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/spencerwooo/onedrive-vercel-index
+      - title: Vercel(代码托管)
+        logo: https://api.iowen.cn/favicon/vercel.com.png
+        url: https://vercel.com/baidu8
+      - title: Home - Replit(代码托管)
+        logo: https://api.iowen.cn/favicon/replit.com.png
+        url: https://replit.com/~
+      - title: Render Dashboard
+        logo: https://api.iowen.cn/favicon/dashboard.render.com.png
+        url: https://dashboard.render.com/
+      - title: glitch（代码托管）
+        logo: https://api.iowen.cn/favicon/glitch.com.png
+        url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
+      - title: LeanCloud-静态评论
+        logo: https://api.iowen.cn/favicon/console.leancloud.app.png
+        url: https://console.leancloud.app/apps
+      - title: Freenom（免费域名）
+        logo: https://api.iowen.cn/favicon/my.freenom.com.png
+        url: https://my.freenom.com/clientarea.php
+      - title: 久伴云
+        logo: https://api.iowen.cn/favicon/6jds.top.png
+        url: https://6jds.top/
+      - title: hd授权中心
+        logo: https://api.iowen.cn/favicon/auth.ihewro.com.png
+        url: https://auth.ihewro.com/user/docs/#/
+      - title: 三国杀Online
+        logo: https://api.iowen.cn/favicon/sanguosha.com.png
+        url: https://sanguosha.com/
+      - title: 有道云笔记
+        logo: https://api.iowen.cn/favicon/note.youdao.com.png
+        url: https://note.youdao.com/old-web/#/file/recent/note/ED08CA1293514FF08D8F9CDF096B9035/
+      - title: 管理您的 Apple ID
+        logo: https://api.iowen.cn/favicon/appleid.apple.com.png
+        url: https://appleid.apple.com/account/manage
+      - title: Upstash: Serverless Data for Redis and Kafka, Console
+        logo: https://api.iowen.cn/favicon/console.upstash.com.png
+        url: https://console.upstash.com/
+      - title: QQ机器人
+        logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+        url: https://www.bilibili.com/read/cv12059821
+      - title: 黑马Python
+        logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+        url: https://www.bilibili.com/read/cv10593914
+      - title: 部署
+        logo: https://api.iowen.cn/favicon/docsify.js.org.png
+        url: https://docsify.js.org/#/zh-cn/deploy
+      - title: js屏蔽F12
+        logo: https://api.iowen.cn/favicon/www.jb51.net.png
+        url: https://www.jb51.net/article/196924.htm
+      - title: live-server使用
+        logo: https://api.iowen.cn/favicon/www.jianshu.com.png
+        url: https://www.jianshu.com/p/b4d952af7004
+      - title: 换脸 – 零度
+        logo: https://api.iowen.cn/favicon/www.freedidi.com.png
+        url: https://www.freedidi.com/5553.html
+      - title: AI 换脸教程
+        logo: https://api.iowen.cn/favicon/www.youtube.com.png
+        url: https://www.youtube.com/watch?v=NbS0v6CUwCg
+      - title: 插件Datatables使用
+        logo: https://api.iowen.cn/favicon/ops-coffee.cn.png
+        url: https://ops-coffee.cn/s/mx2gjlmo7jhkaggswf6ejw
+      - title: Vercel部署Typecho动态博客_Lete乐特的博客-CSDN博客_vercel部署
+        logo: https://api.iowen.cn/favicon/blog.csdn.net.png
+        url: https://blog.csdn.net/Lott0419/article/details/122508409
+      - title: DataTables学习
+        logo: https://api.iowen.cn/favicon/www.cnblogs.com.png
+        url: https://www.cnblogs.com/chengxs/p/6290569.html
+      - title: .gitignore - 简书
+        logo: https://api.iowen.cn/favicon/www.jianshu.com.png
+        url: https://www.jianshu.com/p/699ed86028c2
+      - title: github中项目的上传（两种方法） - 简书
+        logo: https://api.iowen.cn/favicon/www.jianshu.com.png
+        url: https://www.jianshu.com/p/597c2cf8ffff
+      - title: 微信群机器人是怎么实现的？ - 知乎
+        logo: https://api.iowen.cn/favicon/www.zhihu.com.png
+        url: https://www.zhihu.com/question/46891356
+      - title: 如何在你的 GitHub 仓库介绍上加上小图标？ - 哔哩哔哩
+        logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+        url: https://www.bilibili.com/read/cv16327331
+      - title: Hexo博客技巧：添加GitHub徽标_博客footer添加 github 徽标_Chak Aciano的博客-CSDN博客
+        logo: https://api.iowen.cn/favicon/blog.csdn.net.png
+        url: https://blog.csdn.net/weixin_58068682/article/details/116722983
+      - title: 针对不同屏幕大小加载不同的js代码_根据不同的屏幕宽度引入不同的js文件_qq_1350859242的博客-CSDN博客
+        logo: https://api.iowen.cn/favicon/blog.csdn.net.png
+        url: https://blog.csdn.net/qq_37885633/article/details/103804854
+      - title: Butterfly主题美化教程
+        logo: https://api.iowen.cn/favicon/butterfly.zhheo.com.png
+        url: https://butterfly.zhheo.com/
+      - title: 利用Github Actions自动化部署你Hexo博客 | Xlenco
+        logo: https://api.iowen.cn/favicon/blog.xlenco.top.png
+        url: https://blog.xlenco.top/posts/77e3.html
+      - title: hexo插件-视频播放器 | 坚定信念勇往直前
+        logo: https://api.iowen.cn/favicon/www.ht920.com.png
+        url: https://www.ht920.com/2020/04/08/third-blog-video/
+      - title: 使用GitHub Actions实现Hexo博客自动发布_new repository secret_测试开发小记的博客-CSDN博客
+        logo: https://api.iowen.cn/favicon/blog.csdn.net.png
+        url: https://blog.csdn.net/u010698107/article/details/120476856
+      - title: 使用 github+Action 部署 Hexo 博客 - 简书
+        logo: https://api.iowen.cn/favicon/www.jianshu.com.png
+        url: https://www.jianshu.com/p/d20ce9be4c6e
+      - title: 处理谷歌浏览器导出书签为json格式 - 简书
+        logo: https://api.iowen.cn/favicon/www.jianshu.com.png
+        url: https://www.jianshu.com/p/45677cd1a752
+      - title: mv合集
+        logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+        url: https://www.aliyundrive.com/s/jsNeewKA9yM
+      - title: 10t电视剧‘
+        logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+        url: https://www.aliyundrive.com/s/kJJ6WDG9Ntw
+      - title: 88-21奥斯卡
+        logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+        url: https://www.aliyundrive.com/s/xhbhEVGYf8D/folder/root
+      - title: 阿里云盘资源分享
+        logo: https://api.iowen.cn/favicon/docs.qq.com.png
+        url: https://docs.qq.com/sheet/DUllHUnhoanpCZlRD?tab=BB08J2&_t=1676717052164
+      - title: UP云搜
+        logo: https://api.iowen.cn/favicon/www.upyunso.com.png
+        url: https://www.upyunso.com/
+      - title: UP云搜发布页
+        logo: https://api.iowen.cn/favicon/www.upyunso3.com.png
+        url: https://www.upyunso3.com/
+      - title: 优聚搜
+        logo: https://api.iowen.cn/favicon/v3.ujuso.com.png
+        url: https://v3.ujuso.com/
+      - title: Ping查询
+        logo: https://api.iowen.cn/favicon/tools.ipip.net.png
+        url: https://tools.ipip.net/ping.php
+      - title: 代码压缩格式化
+        logo: https://api.iowen.cn/favicon/www.tuimgs.com.png
+        url: https://www.tuimgs.com/jsgeshi.html
+      - title: 17CE
+        logo: https://api.iowen.cn/favicon/17ce.com.png
+        url: http://17ce.com/
+      - title: 高清海报
+        logo: https://api.iowen.cn/favicon/qlou.cc.png
+        url: https://qlou.cc/yxym
+      - title: 有道翻译
+        logo: https://api.iowen.cn/favicon/fanyi.youdao.com.png
+        url: https://fanyi.youdao.com/index.html#/
+      - title: 下载 Instagram 照片、视频、故事、IGTV、REELS，为 PC、iPhone 和 An…
+        logo: https://api.iowen.cn/favicon/sssinstagram.com.png
+        url: https://sssinstagram.com/zh
+      - title: baidu8
+        logo: https://api.iowen.cn/favicon/github.com.png
+        url: https://github.com/baidu8
+      - title: 仪表板
+        logo: https://api.iowen.cn/favicon/www.doprax.com.png
+        url: https://www.doprax.com/u/n726817119/
+      - title: Home - Replit
+        logo: https://api.iowen.cn/favicon/replit.com.png
+        url: https://replit.com/~
+      - title: Cloudflare | Web Performance & Security
+        logo: https://api.iowen.cn/favicon/dash.cloudflare.com.png
+        url: https://dash.cloudflare.com/56d2eae64975328ca874a9def1b136e2
+      - title: Heroku
+        logo: https://api.iowen.cn/favicon/dashboard.heroku.com.png
+        url: https://dashboard.heroku.com/apps
+      - title: uniCloud
+        logo: https://api.iowen.cn/favicon/unicloud.dcloud.net.cn.png
+        url: https://unicloud.dcloud.net.cn/home
+      - title: 阿里云盘
+        logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+        url: https://www.aliyundrive.com/drive
+      - title: 豆瓣🐜
+        logo: https://api.iowen.cn/favicon/www.douban.com.png
+        url: https://www.douban.com/people/n726817119/
+      - title: Z-Library
+        logo: https://api.iowen.cn/favicon/zlibrary.ml.png
+        url: https://zlibrary.ml/
+      - title: 一个远程浏览器
+        logo: https://api.iowen.cn/favicon/hyperbeam.com.png
+        url: https://hyperbeam.com/
+      - title: VPN Gate: 公共 VPN 中继服务器列表
+        logo: https://api.iowen.cn/favicon/www.vpngate.net.png
+        url: https://www.vpngate.net/cn/
+      - title: Free VPN支持open
+        logo: https://api.iowen.cn/favicon/spotssh.com.png
+        url: https://spotssh.com/vpn-list
+      - title: 一元机场
+        logo: https://api.iowen.cn/favicon/xn--4gq62f52gdss.com.png
+        url: https://xn--4gq62f52gdss.com/#/login
+      - title: 江小白uusb
+        logo: https://api.iowen.cn/favicon/uusb.cf.png
+        url: https://uusb.cf/
+      - title: 1ove - 小白云盘
+        logo: https://api.iowen.cn/favicon/drive.uusb.cf.png
+        url: https://drive.uusb.cf/
+      - title: baidu8
+        logo: https://api.iowen.cn/favicon/baidu8.github.io.png
+        url: https://baidu8.github.io/
+      - title: Ganbi
+        logo: https://api.iowen.cn/favicon/ganbi.top.png
+        url: https://ganbi.top/
+      - title: 网址导航
+        logo: https://api.iowen.cn/favicon/nav.uusb.cf.png
+        url: https://nav.uusb.cf/
+      - title: 小白搜索
+        logo: https://api.iowen.cn/favicon/al.ganbi.top.png
+        url: https://al.ganbi.top/
