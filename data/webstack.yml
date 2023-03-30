@@ -7,10 +7,6 @@
       description: 下载Instagram照片,视频,故事,IGTV,REELS
       url: https://sssinstagram.com/zh
       logo: https://sssinstagram.com/favicon/favicon-48x48.png
-    - url: https://www.upyunso.com
-      description: 阿里云
-      title: UP云搜
-      logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/12download.svg
     - url: https://fontawesome.com.cn/faicons/
       title: fontawesome
       description: fontawesome中文图标库
@@ -31,22 +27,10 @@
       description: 官网
       url: https://clashofclans.com/zh/
       logo: https://clashofclans.com/blog-assets/favicon/apple-touch-icon-57x57.png
-    - title: Home - Replit
-      url: https://replit.com/~
-      logo: https://replit.com/public/icons/favicon-prompt-192.png
-      description:  代码托管
-    - title: 有道云笔记 
-      url: https://note.youdao.com/
-      logo: https://note.youdao.com/favicon.ico
-      description:  云笔记, 有道笔记, 团队协作
     - url: https://fanyi.youdao.com/index.html
       description: 在线即时翻译、免费AI翻译、文档文本翻译、人工翻译、网页翻译
       title: 有道翻译
       logo: https://shared-https.ydstatic.com/images/favicon.ico
-    - url: https://drive.google.com/drive/my-drive
-      description: Google云端硬盘
-      title: Google
-      logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/drive_20212es0q4_64dp.png
     - title: Cloudflare
       description: 网站托管
       logo: https://dash.cloudflare.com/apple-touch-icon-114x114.png
@@ -59,7 +43,40 @@
       description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
       title: 豆瓣
       logo: 豆瓣.webp
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
+- taxonomy: 📺🎥🎞️
+  icon: icon al-shutiao
+  list:
+    - term: 📽️📽️📽️
+      links:
+        - title: 低端影视
+          url: https://ddrk.art/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
+          description: 低端影视 - 超清在线视频站
+        - title: 凌云影视
+          url: https://www.lyys8.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234647.png
+          description: 凌云影视为您提供2022年最新最热电影，电视剧、综艺、动漫、在线免费高清vip免费观看
+        - title: 微看剧
+          url: https://www.weikanju.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182905.png
+          description: 微看剧提供最新电影，电视剧，动漫，综艺等免费在线观看，每天第一时间更新，给您更好的视频观看体验，手机看片首选微看剧。
+        - title: LIBVIO
+          url: https://www.libvio.com/
+          logo: https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico
+          description: 未添加介绍
+        - title: HOHO TV
+          url: https://hoho.tv/
+          logo: https://www.hoho.tv/img/left_logo.png
+          description: 多节点无缝体验以及播放速度快捷分享的产品特性,主要满足用户在线观看视频的需求
+        - title: 浮生半日
+          url: http://movie.fush8.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234743.png
+          description: 未添加介绍
+        - title: 555电影网
+          url: https://www.o8tv.com/
+          logo: https://www.o8tv.com/favicon.ico
+          description: 每天更新热火欧美日韩剧，最新韩国电影，最专业的的影视服务，免费速度快，及时收录最新、最热、最全的电影大片,高清正版免费看。
+        - title: 烧饼电影院
+          url: https://www.yufu3.com/
+          description: 烧饼电影院
+          logo: 
