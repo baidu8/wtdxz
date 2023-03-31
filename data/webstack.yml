@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 🍆🍆🍆
-  icon: icon al-qiezi
+  icon: al-qiezi
   links: 
     - title: SSS
       description: 下载Instagram照片,视频,故事,IGTV,REELS
@@ -40,10 +40,10 @@
       title: 豆瓣
       logo: https://api.iowen.cn/favicon/www.douban.com.png
 - taxonomy: 📺🎥🎞️
-  icon: icon al-shutiao
+  icon: al-shutiao
   list:
     - term: 📽️📽️📽️
-      icon: icon al-wandou
+      icon: al-wandou
       links:
         - title: 低端影视
           url: https://ddrk.art/
@@ -78,7 +78,7 @@
           description: 烧饼电影院
           logo: https://api.iowen.cn/favicon/www.yufu3.com.png
     - term: 🍪🥧🍩
-      icon: icon al-tiantianquan
+      icon: al-tiantianquan
       links:
         - title: Vercel
           description: 代码托管
