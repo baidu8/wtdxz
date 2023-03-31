@@ -1,5 +1,5 @@
 /*调整全局字体大小*/
-body,html{font-size:14px;cursor: url(assets/img/blue.cur), auto;}
+body,html{font-size:14px;cursor: url(/img/blue.cur), auto;}
 
 /*左导航悬浮sidebar-menu-inner宽度调整为90px*/
 .sidebar-popup.sidebar-menu-inner > div > ul > li.sidebar-item>ul{position:absolute;top:0px;left:10px;width:90px;z-index:99}
