@@ -10,10 +10,10 @@
     - url: https://fontawesome.com.cn/faicons/
       title: fontawesome
       description: fontawesome中文图标库
-      logo: fontawesome.ico
+      logo: https://api.iowen.cn/favicon/fontawesome.com.cn.png
     - title: 阿里图标
       description: 阿里图标，插画
-      logo: 阿里图标库2.svg
+      logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
       url: https://www.iconfont.cn/
     - url: https://xbeibeix.com/api/bilibili/
       description: B站视频下载
@@ -38,11 +38,11 @@
     - url: https://app.clipchamp.com/
       description: 免费视频剪辑
       title: Clipchamp
-      logo: clipchamp.svg
+      logo: https://api.iowen.cn/favicon/app.clipchamp.com.png
     - url: https://www.douban.com/
       description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
       title: 豆瓣
-      logo: 豆瓣.webp
+      logo: https://api.iowen.cn/favicon/www.douban.com.png
 - taxonomy: 📺🎥🎞️
   icon: icon al-shutiao
   list:
@@ -79,4 +79,4 @@
         - title: 烧饼电影院
           url: https://www.yufu3.com/
           description: 烧饼电影院
-          logo: 
+          logo: https://api.iowen.cn/favicon/www.yufu3.com.png

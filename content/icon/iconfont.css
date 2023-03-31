@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "icon"; /* Project id 3987924 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1680269806758') format('woff2'),
+       url('iconfont.woff?t=1680269806758') format('woff'),
+       url('iconfont.ttf?t=1680269806758') format('truetype');
+}
+
+.icon {
+  font-family: "icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.al-binggun:before {
+  content: "\e85c";
+}
+
+.al-binggan:before {
+  content: "\e85d";
+}
+
+.al-chengzi:before {
+  content: "\e85e";
+}
+
+.al-dangao:before {
+  content: "\e85f";
+}
+
+.al-bingqilin:before {
+  content: "\e860";
+}
+
+.al-jiemo:before {
+  content: "\e861";
+}
+
+.al-boluo:before {
+  content: "\e862";
+}
+
+.al-caomei:before {
+  content: "\e863";
+}
+
+.al-jitui:before {
+  content: "\e864";
+}
+
+.al-lajiao:before {
+  content: "\e865";
+}
+
+.al-naixi:before {
+  content: "\e866";
+}
+
+.al-hanbao:before {
+  content: "\e867";
+}
+
+.al-nailao:before {
+  content: "\e868";
+}
+
+.al-fanqiejiang:before {
+  content: "\e869";
+}
+
+.al-kafeibei:before {
+  content: "\e86a";
+}
+
+.al-luobu:before {
+  content: "\e86b";
+}
+
+.al-regou:before {
+  content: "\e86c";
+}
+
+.al-kaomianbaopian:before {
+  content: "\e86d";
+}
+
+.al-qiaokeli:before {
+  content: "\e86e";
+}
+
+.al-niunai:before {
+  content: "\e86f";
+}
+
+.al-wandou:before {
+  content: "\e870";
+}
+
+.al-xiangjiao:before {
+  content: "\e871";
+}
+
+.al-shousi:before {
+  content: "\e872";
+}
+
+.al-mogu:before {
+  content: "\e873";
+}
+
+.al-li:before {
+  content: "\e874";
+}
+
+.al-yumi:before {
+  content: "\e875";
+}
+
+.al-xilanhua:before {
+  content: "\e876";
+}
+
+.al-tiantianquan:before {
+  content: "\e877";
+}
+
+.al-yingtao:before {
+  content: "\e878";
+}
+
+.al-qiezi:before {
+  content: "\e879";
+}
+
+.al-huluobu:before {
+  content: "\e87a";
+}
+
+.al-quqi:before {
+  content: "\e87b";
+}
+
+.al-zhibeidangao:before {
+  content: "\e87c";
+}
+
+.al-tiangua:before {
+  content: "\e87d";
+}
+
+.al-rouwan:before {
+  content: "\e87e";
+}
+
+.al-putao:before {
+  content: "\e87f";
+}
+
+.al-taozi:before {
+  content: "\e880";
+}
+
+.al-pisa:before {
+  content: "\e881";
+}
+
+.al-shutiao:before {
+  content: "\e882";
+}
+
+.al-qingjiao:before {
+  content: "\e883";
+}
+
