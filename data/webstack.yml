@@ -80,3 +80,23 @@
           url: https://www.yufu3.com/
           description: 烧饼电影院
           logo: https://api.iowen.cn/favicon/www.yufu3.com.png
+    - term: 🍪🥧🍩
+      links:
+        - title: Vercel(代码托管)
+          logo: https://api.iowen.cn/favicon/vercel.com.png
+          url: https://vercel.com/baidu8
+        - title: Home - Replit(代码托管)
+          logo: https://api.iowen.cn/favicon/replit.com.png
+          url: https://replit.com/~
+        - title: Render Dashboard
+          logo: https://api.iowen.cn/favicon/dashboard.render.com.png
+          url: https://dashboard.render.com/
+        - title: glitch（代码托管）
+          logo: https://api.iowen.cn/favicon/glitch.com.png
+          url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
+        - title: LeanCloud-静态评论
+          logo: https://api.iowen.cn/favicon/console.leancloud.app.png
+          url: https://console.leancloud.app/apps
+        - title: Freenom（免费域名）
+          logo: https://api.iowen.cn/favicon/my.freenom.com.png
+          url: https://my.freenom.com/clientarea.php

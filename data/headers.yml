@@ -8,7 +8,7 @@
 
 - item: 配置
   icon: fa fa-cog
-  link: ""
+  link: "/icon/"
   list:
     - name: 源码
       url: "https://github.com/shenweiyan/WebStack-Hugo"
@@ -16,5 +16,3 @@
       url: "https://console.dnspod.cn/"
     - name: 图标
       url: "https://fontawesome.com.cn/faicons/"
-    - name: 图标-阿里
-      url: "/icon"
