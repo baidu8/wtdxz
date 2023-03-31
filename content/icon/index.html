@@ -32,12 +32,37 @@
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
+    .avatar-special {
+    width: 128px;
+    /* height: 100%; */
+    text-align: center;
+    position: relative;
+    display: block;
+}
+img.avatar-special-inner {
+    vertical-align: middle;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    margin-top: -10px;
+    margin-left: -6px;
+}
+img.avatar-special-cover {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+}
   </style>
 </head>
 <body>
   <div class="main">
     <h1 class="logo"><a href="/" title="首页" target="_blank">
-      <img width="200" src="https://www.uusb.cf/img/favicon.png">
+      <!-- <img width="200" src="https://www.uusb.cf/img/favicon.png"> -->
+      <div class="avatar-special">
+        <img class="avatar-special-inner" src="https://q1.qlogo.cn/g?b=qq&amp;nk=726817119&amp;s=640">
+        <img class="avatar-special-cover" src="https://img.alicdn.com/imgextra/i4/O1CN01aG16y424E11XsURUd_!!6000000007358-2-tps-206-240.png">
+        </div>
     </a></h1>
     <div class="nav-tabs">
       <ul id="tabs" class="dib-box">

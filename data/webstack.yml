@@ -77,6 +77,9 @@
           url: https://www.yufu3.com/
           description: 烧饼电影院
           logo: https://api.iowen.cn/favicon/www.yufu3.com.png
+- taxonomy: 🎨🏡🥦
+  icon: al-xilanhua
+  list:
     - term: 🍪🥧🍩
       icon: al-tiantianquan
       links:
@@ -115,3 +118,154 @@
           description: 忘了这是干啥的了
           logo: https://api.iowen.cn/favicon/www.doprax.com.png
           url: https://www.doprax.com/u/n726817119/
+    - term: 🎨🛳️🏠
+      icon: al-hanbao
+      links:
+        - title: 小歪博客
+          description: 
+          logo: https://api.iowen.cn/favicon/blog.ixiaowai.cn.png
+          url: https://blog.ixiaowai.cn/
+        - title: 夜雨聆风
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yeyulingfeng.com.png
+          url: https://www.yeyulingfeng.com/
+        - title: 小枫网络
+          description: 
+          logo: https://api.iowen.cn/favicon/www.xfwl.club.png
+          url: https://www.xfwl.club/
+        - title: 韩小韩
+          description: 
+          logo: https://api.iowen.cn/favicon/www.vvhan.com.png
+          url: https://www.vvhan.com/
+        - title: 缥缈博客
+          description: 
+          logo: https://api.iowen.cn/favicon/blog.btstu.cn.png
+          url: https://blog.btstu.cn/
+        - title: AE博客
+          description: 
+          logo: https://api.iowen.cn/favicon/www.aeink.com.png
+          url: http://www.aeink.com/
+        - title: 天蝎雨
+          description: 
+          logo: https://api.iowen.cn/favicon/scorain.com.png
+          url: https://scorain.com/
+        - title: 缤纷彩虹
+          description: 
+          logo: https://api.iowen.cn/favicon/blog.cccyun.cn.png
+          url: http://blog.cccyun.cn/
+        - title: 技术松鼠
+          description: 
+          logo: https://api.iowen.cn/favicon/www.jishusongshu.com.png
+          url: https://www.jishusongshu.com/
+        - title: 站长素材
+          description: 
+          logo: https://api.iowen.cn/favicon/www.zztuku.com.png
+          url: https://www.zztuku.com/
+        - title: Eonegh's Blog
+          description: 
+          logo: https://api.iowen.cn/favicon/eonegh.com.png
+          url: https://eonegh.com/
+        - title: 李峰博客
+          description: 
+          logo: https://api.iowen.cn/favicon/www.lifeng.in.png
+          url: https://www.lifeng.in/12642.html
+        - title: MiniCMS
+          description: 
+          logo: https://api.iowen.cn/favicon/1234n.com.png
+          url: http://1234n.com/?projects/minicms/
+        - title: Yovi's Blog
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yovisun.com.png
+          url: http://www.yovisun.com/
+        - title: Lime's Blog
+          description: 
+          logo: https://api.iowen.cn/favicon/blog.qninq.cn.png
+          url: https://blog.qninq.cn/
+        - title: HCLonely
+          description: 
+          logo: https://api.iowen.cn/favicon/blog.hclonely.com.png
+          url: https://blog.hclonely.com/
+        - title: 远昔博客
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yuanxiblog.cn.png
+          url: https://www.yuanxiblog.cn/
+        - title: Nite07小窝
+          description: 
+          logo: https://api.iowen.cn/favicon/www.nite07.com.png
+          url: https://www.nite07.com/
+        - title: 井犯博客
+          description: 
+          logo: https://api.iowen.cn/favicon/nicejf.cn.png
+          url: https://nicejf.cn/
+        - title: 孟坤博客
+          description: 
+          logo: https://api.iowen.cn/favicon/mkblog.cn.png
+          url: https://mkblog.cn/
+        - title: 梓宸的小屋
+          description: 
+          logo: https://api.iowen.cn/favicon/zichen.zone.png
+          url: https://zichen.zone/
+        - title: MengD
+          description: 萌典
+          logo: https://api.iowen.cn/favicon/mengd.js.org.png
+          url: https://mengd.js.org/
+        - title: 萌通社区
+          description: 
+          logo: https://api.iowen.cn/favicon/www.umtp.cn.png
+          url: https://www.umtp.cn/
+        - title: 梅塔沃克
+          description: 专注跨境
+          logo: https://api.iowen.cn/favicon/iweec.com.png
+          url: https://iweec.com/
+        - title: 竹山一叶
+          description: 竹山一叶的小家
+          logo: https://api.iowen.cn/favicon/zsyyblog.com.png
+          url: https://zsyyblog.com/
+        - title: Lete
+          description: 乐特的小窝
+          logo: https://api.iowen.cn/favicon/www.imlete.cn.png
+          url: https://www.imlete.cn/
+        - title: 贝贝工具站
+          description: 
+          logo: https://api.iowen.cn/favicon/xbeibeix.com.png
+          url: https://xbeibeix.com/
+        - title: 章鱼猫先生
+          description: 语雀
+          logo: https://api.iowen.cn/favicon/www.yuque.com.png
+          url: https://www.yuque.com/shenweiyan
+        - title: Akilarの糖果屋
+          description: Akilar.top
+          logo: https://api.iowen.cn/favicon/akilar.top.png
+          url: https://akilar.top/
+        - title: Butterfly
+          description: A Simple and Card UI Design theme for Hexo
+          logo: https://api.iowen.cn/favicon/butterfly.js.org.png
+          url: https://butterfly.js.org/
+        - title: metowolf
+          description: 😏
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/metowolf/MetingJS
+        - title: 一为忆
+          description: 分享资源分享精品内容。
+          logo: https://api.iowen.cn/favicon/www.iowen.cn.png
+          url: https://www.iowen.cn/
+        - title: Leonus
+          description: 进一寸有进一寸的欢喜。
+          logo: https://api.iowen.cn/favicon/blog.leonus.cn.png
+          url: https://blog.leonus.cn/
+        - title: 轻笑
+          description: Chuckle
+          logo: https://api.iowen.cn/favicon/www.chuckle.top.png
+          url: https://www.chuckle.top/
+        - title: 枢衡の巢
+          description: 一只小乌鸦的学习日记
+          logo: https://api.iowen.cn/favicon/www.crowhsu.top.png
+          url: https://www.crowhsu.top/
+        - title: 小冰博客
+          description: 做个有梦想的人！
+          logo: https://api.iowen.cn/favicon/zfe.space.png
+          url: https://zfe.space/
+        - title: Ariasakaの小窝
+          description: 
+          logo: https://api.iowen.cn/favicon/yisous.xyz.png
+          url: https://yisous.xyz/
