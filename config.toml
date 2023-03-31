@@ -40,4 +40,4 @@ hasCJKLanguage        = true
     unsafe = true
 
 [params.footer]
-    copyright = '© 2022 - 2023 BY <br />💕<span id="span_dt_dt">💕</span>'
+    copyright = '© 2022 - 2023 BY <br />💕<span id="span_dt_dt"></span>💕'
