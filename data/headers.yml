@@ -12,9 +12,9 @@
   list:
     - name: 源码
       url: "https://github.com/shenweiyan/WebStack-Hugo"
-    - name: 图标1
-      url: "https://fontawesome.com.cn/faicons/"
-    - name: 图标2
-      url: "https://fontawesome.com.cn/faicons/"
     - name: 域名
       url: "https://console.dnspod.cn/"
+    - name: 图标
+      url: "https://fontawesome.com.cn/faicons/"
+    - name: 图标-阿里
+      url: "/icon"

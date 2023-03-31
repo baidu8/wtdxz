@@ -40,4 +40,4 @@ hasCJKLanguage        = true
     unsafe = true
 
 [params.footer]
-    copyright = '© 2022 - 2023'
+    copyright = '© 2022 - 2023 BY <a href="https://github.com/Hugo-Template/WebStack-Hugo-Template" title="一键导航模板">WHT</a> | <a href="https://github.com/shenweiyan/WebStack-Hugo" title="静态响应式导航主题">WH</a> <br /><span id="span_dt_dt" style="color:#2f889a"><font style="color:#C40000">425</font> 天 <font style="color:#C40000">17</font> 时 <font style="color:#C40000">11</font> 分 <font style="color:#C40000">42</font> 秒</span>'
