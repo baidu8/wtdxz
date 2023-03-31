@@ -31,10 +31,6 @@
       description: 在线即时翻译、免费AI翻译、文档文本翻译、人工翻译、网页翻译
       title: 有道翻译
       logo: https://shared-https.ydstatic.com/images/favicon.ico
-    - title: Cloudflare
-      description: 网站托管
-      logo: https://dash.cloudflare.com/apple-touch-icon-114x114.png
-      url: https://dash.cloudflare.com/
     - url: https://app.clipchamp.com/
       description: 免费视频剪辑
       title: Clipchamp
@@ -47,6 +43,7 @@
   icon: icon al-shutiao
   list:
     - term: 📽️📽️📽️
+      icon: icon al-wandou
       links:
         - title: 低端影视
           url: https://ddrk.art/
@@ -81,22 +78,40 @@
           description: 烧饼电影院
           logo: https://api.iowen.cn/favicon/www.yufu3.com.png
     - term: 🍪🥧🍩
+      icon: icon al-tiantianquan
       links:
-        - title: Vercel(代码托管)
+        - title: Vercel
+          description: 代码托管
           logo: https://api.iowen.cn/favicon/vercel.com.png
           url: https://vercel.com/baidu8
-        - title: Home - Replit(代码托管)
+        - title: Replit
+          description: 代码托管
           logo: https://api.iowen.cn/favicon/replit.com.png
           url: https://replit.com/~
+        - title: glitch
+          description: 代码托管
+          logo: https://api.iowen.cn/favicon/glitch.com.png
+          url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
         - title: Render Dashboard
           logo: https://api.iowen.cn/favicon/dashboard.render.com.png
           url: https://dashboard.render.com/
-        - title: glitch（代码托管）
-          logo: https://api.iowen.cn/favicon/glitch.com.png
-          url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
-        - title: LeanCloud-静态评论
+        - title: Heroku
+          description: 代码托管
+          logo: https://api.iowen.cn/favicon/dashboard.heroku.com.png
+          url: https://dashboard.heroku.com/apps
+        - title: Cloudflare
+          description: 网址托管，免费cdn
+          logo: https://dash.cloudflare.com/apple-touch-icon-114x114.png
+          url: https://dash.cloudflare.com/
+        - title: LeanCloud
+          description: 静态评论
           logo: https://api.iowen.cn/favicon/console.leancloud.app.png
           url: https://console.leancloud.app/apps
-        - title: Freenom（免费域名）
+        - title: Freenom
+          description: 免费域名
           logo: https://api.iowen.cn/favicon/my.freenom.com.png
           url: https://my.freenom.com/clientarea.php
+        - title: 仪表板
+          description: 忘了这是干啥的了
+          logo: https://api.iowen.cn/favicon/www.doprax.com.png
+          url: https://www.doprax.com/u/n726817119/

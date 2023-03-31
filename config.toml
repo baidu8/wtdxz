@@ -40,4 +40,4 @@ hasCJKLanguage        = true
     unsafe = true
 
 [params.footer]
-    copyright = '© 2022 - 2023 BY <a href="https://github.com/Hugo-Template/WebStack-Hugo-Template" title="一键导航模板">WHT</a> | <a href="https://github.com/shenweiyan/WebStack-Hugo" title="静态响应式导航主题">WH</a> <br />🥂<span id="span_dt_dt">🥂</span>'
+    copyright = '© 2022 - 2023 BY <br />💕<span id="span_dt_dt">💕</span>'
