@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 				<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <title>小白搜索 - 阿里云盘分享链接搜索</title>
+    <title>链接提交</title>
+				<link rel="shortcut icon" href="https://www.uusb.cf/img/favicon.png">
     <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
 				<link rel="stylesheet" href="https://al.ganbi.top/ganbi.min.css">
@@ -18,6 +19,8 @@
 </style>
 </head>
 <body>
+	<a href="/" class="btn btn-primary">返回首页</a>
+	
 <pre><code>链接格式：
 - title: 名字
   url: https://网址/
@@ -31,12 +34,14 @@
 <script src="https://cdn.staticfile.org/twikoo/1.6.11/twikoo.all.min.js"></script>
 <script>
 twikoo.init({
-  envId: 'https://pl.uusb.cf/', 
-  el: '#tcomment', 
+  envId: 'https://pl.uusb.cf/',
+  el: '#tcomment',
 })
 </script>
 </body>
 <script type="text/javascript" charset="utf8" src="https://fastly.jsdelivr.net/gh/jquery/jquery@3.6.0/dist/jquery.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
-<script>$(document).ready(function(){$("#example").DataTable({fnPreDrawCallback:function(a){$(".dataTables_filter input").attr({name:"search",placeholder:"搜索阿里分享链接✍️️"})},dom:"frtip",ordering:!1,stateSave:!0,ajax:"https://gist.githubusercontent.com/baidu8/642d1a1329b530a675860010e751a2db/raw/alfx.json",columns:[{data:"name",title:"名称链接👇"},{data:"url",title:"点击直达👇",render:function(a,t,e){return"<a href="+a+' target="_blank">'+"点此前往</a>"}}],language:{url:"https://al.ganbi.top/zh_CN.txt"}})});</script>
+<script>
+$(document).ready(function(){$("#example").DataTable({fnPreDrawCallback:function(a){$(".dataTables_filter input").attr({name:"search",placeholder:"搜索阿里分享链接✍️️"})},dom:"frtip",ordering:!1,stateSave:!0,ajax:"https://gist.githubusercontent.com/baidu8/642d1a1329b530a675860010e751a2db/raw/alfx.json",columns:[{data:"name",title:"名称链接👇"},{data:"url",title:"点击直达👇",render:function(a,t,e){return"<a href="+a+' target="_blank">'+"点此前往</a>"}}],language:{url:"https://al.ganbi.top/zh_CN.txt"}})});
+</script>
 </html>
