@@ -7,34 +7,14 @@
       description: 下载Instagram照片,视频,故事,IGTV,REELS
       url: https://sssinstagram.com/zh
       logo: https://sssinstagram.com/favicon/favicon-48x48.png
-    - url: https://fontawesome.com.cn/faicons/
-      title: fontawesome
-      description: fontawesome中文图标库
-      logo: https://api.iowen.cn/favicon/fontawesome.com.cn.png
     - title: 阿里图标
       description: 阿里图标，插画
       logo: https://api.iowen.cn/favicon/www.iconfont.cn.png
       url: https://www.iconfont.cn/
-    - url: https://xbeibeix.com/api/bilibili/
-      description: B站视频下载
-      title: 贝贝BiliBili
-      logo: https://www.bilibili.com/favicon.ico
-    - title: 部落冲突
-      description: 部落冲突指导，升级数据与软件下载
-      url: https://www.cocservice.top/update
-      logo: https://www.cocservice.top/favicon.ico
-    - title: 部落冲突
-      description: 官网
-      url: https://clashofclans.com/zh/
-      logo: https://clashofclans.com/blog-assets/favicon/apple-touch-icon-57x57.png
     - url: https://fanyi.youdao.com/index.html
       description: 在线即时翻译、免费AI翻译、文档文本翻译、人工翻译、网页翻译
       title: 有道翻译
       logo: https://shared-https.ydstatic.com/images/favicon.ico
-    - url: https://app.clipchamp.com/
-      description: 免费视频剪辑
-      title: Clipchamp
-      logo: https://api.iowen.cn/favicon/app.clipchamp.com.png
     - url: https://www.douban.com/
       description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
       title: 豆瓣
@@ -77,6 +57,11 @@
           url: https://www.yufu3.com/
           description: 烧饼电影院
           logo: https://api.iowen.cn/favicon/www.yufu3.com.png
+        - title: 我爱电影
+          url: https://www.5aifilms.com/
+          description: 永久免费在线电影电视观看
+          logo: https://5aifilms.com/static/Streamlab/img/favicon1.png
+
 - taxonomy: 🎨🏡🥦
   icon: al-xilanhua
   list:
@@ -269,3 +254,18 @@
           description: 
           logo: https://api.iowen.cn/favicon/yisous.xyz.png
           url: https://yisous.xyz/
+
+- taxonomy: 🎶📚🎮
+  icon: al-zhibeidangao
+  list:
+    - term: 🎮🕹️🎰
+      icon: al-tiantianquan
+      links:
+        - title: 部落冲突
+          description: 部落冲突指导，升级数据与软件下载
+          url: https://www.cocservice.top/update
+          logo: https://www.cocservice.top/favicon.ico
+        - title: 部落冲突
+          description: 官网
+          url: https://clashofclans.com/zh/
+          logo: https://clashofclans.com/blog-assets/favicon/apple-touch-icon-57x57.png

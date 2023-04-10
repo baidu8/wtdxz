@@ -6,13 +6,17 @@
 #   icon: fa fa-book
 #   link: /
 
+- item: 图标
+  icon: icon al-nailao
+  link: "/icon/"
+
 - item: 配置
   icon: fa fa-cog
-  link: "/icon/"
+  link: "./"
   list:
-    - name: 源码
+    - name: ⛺源码
       url: "https://github.com/shenweiyan/WebStack-Hugo"
-    - name: 域名
+    - name: 📛域名
       url: "https://console.dnspod.cn/"
-    - name: 图标
+    - name: 📌图标
       url: "https://fontawesome.com.cn/faicons/"
