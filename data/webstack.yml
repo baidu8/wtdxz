@@ -19,6 +19,10 @@
       description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
       title: 豆瓣
       logo: https://api.iowen.cn/favicon/www.douban.com.png
+    - url: https://dev.yqcloud.top/
+      description: ai
+      title: gpt-3.5
+      logo: https://api.iowen.cn/favicon/dev.yqcloud.top.png
 - taxonomy: 📺🎥🎞️
   icon: al-shutiao
   list:
@@ -26,7 +30,7 @@
       icon: al-wandou
       links:
         - title: 低端影视
-          url: https://ddrk.art/
+          url: https://ddys.art/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
           description: 低端影视 - 超清在线视频站
         - title: 凌云影视
