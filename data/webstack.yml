@@ -33,6 +33,10 @@
           url: https://ddys.art/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
           description: 低端影视 - 超清在线视频站
+        - title: 美剧迷
+          url: https://www.meijumi.net/
+          logo: https://api.iowen.cn/favicon/www.meijumi.net.png
+          description: 美剧下载站
         - title: 凌云影视
           url: https://www.lyys8.com/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234647.png
@@ -107,6 +111,29 @@
           description: 忘了这是干啥的了
           logo: https://api.iowen.cn/favicon/www.doprax.com.png
           url: https://www.doprax.com/u/n726817119/
+    - term: 🔢♒🍥
+      icon: al-qiaokeli
+      links:
+        - title: bit
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/bit.io.png
+          url: https://bit.io/
+        - title: Supabase
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/supabase.com.png
+          url: https://supabase.com/
+        - title: Planetscale
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/planetscale.com.png
+          url: https://planetscale.com/
+        - title: Upstash
+          description: 🔝免费数据库
+          logo: https://api.iowen.cn/favicon/upstash.com.png
+          url: https://console.upstash.com/
+        - title: MongoDb
+          description: 🔝免费数据库
+          logo: https://api.iowen.cn/favicon/www.mongodb.com.png
+          url: https://www.mongodb.com
     - term: 🎨🛳️🏠
       icon: al-hanbao
       links:
