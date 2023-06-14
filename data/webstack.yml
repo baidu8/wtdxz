@@ -3,6 +3,18 @@
 - taxonomy: 🍆🍆🍆
   icon: al-qiezi
   links: 
+    - title: 博客
+      description: 🕳️
+      url: https://blog.wtdxz.com/
+      logo: https://www.uusb.cf/img/favicon.png
+    - title: 阿里分享
+      description: 分享链接
+      url: https://al.wtdxz.com/
+      logo: https://q1.qlogo.cn/g?b=qq&nk=726817119&s=640
+    - title: 📌
+      description: 网盘挂载
+      url: https://drive.wtdxz.com/
+      logo: https://www.icloud.com/favicon.ico
     - title: SSS
       description: 下载Instagram照片,视频,故事,IGTV,REELS
       url: https://sssinstagram.com/zh
@@ -31,7 +43,7 @@
       links:
         - title: 低端影视
           url: https://ddys.art/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
+          logo: https://api.iowen.cn/favicon/ddys.art.png
           description: 低端影视 - 超清在线视频站
         - title: 美剧迷
           url: https://www.meijumi.net/
@@ -39,28 +51,28 @@
           description: 美剧下载站
         - title: 凌云影视
           url: https://www.lyys8.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234647.png
+          logo: https://api.iowen.cn/favicon/www.lyys8.com.png
           description: 凌云影视为您提供2022年最新最热电影，电视剧、综艺、动漫、在线免费高清vip免费观看
         - title: 微看剧
           url: https://www.weikanju.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182905.png
+          logo: https://api.iowen.cn/favicon/www.weikanju.com.png
           description: 微看剧提供最新电影，电视剧，动漫，综艺等免费在线观看，每天第一时间更新，给您更好的视频观看体验，手机看片首选微看剧。
         - title: LIBVIO
           url: https://www.libvio.com/
-          logo: https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico
+          logo: https://api.iowen.cn/favicon/www.libvio.com.png
           description: 未添加介绍
         - title: HOHO TV
           url: https://hoho.tv/
-          logo: https://www.hoho.tv/img/left_logo.png
+          logo: https://api.iowen.cn/favicon/hoho.tv.png
           description: 多节点无缝体验以及播放速度快捷分享的产品特性,主要满足用户在线观看视频的需求
         - title: 浮生半日
           url: http://movie.fush8.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234743.png
+          logo: https://api.iowen.cn/favicon/movie.fush8.com.png
           description: 未添加介绍
         - title: 555电影网
-          url: https://www.o8tv.com/
-          logo: https://www.o8tv.com/favicon.ico
-          description: 每天更新热火欧美日韩剧，最新韩国电影，最专业的的影视服务，免费速度快，及时收录最新、最热、最全的电影大片,高清正版免费看。
+          url: https://55dy5.vip/
+          logo: https://api.iowen.cn/favicon/55dy5.vip.png
+          description: 网址发布页 https://555dyy.top/
         - title: 烧饼电影院
           url: https://www.yufu3.com/
           description: 烧饼电影院
@@ -68,7 +80,7 @@
         - title: 我爱电影
           url: https://www.5aifilms.com/
           description: 永久免费在线电影电视观看
-          logo: https://5aifilms.com/static/Streamlab/img/favicon1.png
+          logo: https://api.iowen.cn/favicon/www.5aifilms.com.png
 
 - taxonomy: 🎨🏡🥦
   icon: al-xilanhua
@@ -290,7 +302,7 @@
   icon: al-zhibeidangao
   list:
     - term: 🎮🕹️🎰
-      icon: al-tiantianquan
+      icon: al-mogu
       links:
         - title: 部落冲突
           description: 部落冲突指导，升级数据与软件下载
@@ -300,3 +312,291 @@
           description: 官网
           url: https://clashofclans.com/zh/
           logo: https://clashofclans.com/blog-assets/favicon/apple-touch-icon-57x57.png
+
+
+- taxonomy: ☁️🍽️💾
+  icon: al-quqi
+  list:
+    - term: 云端网盘
+      links:
+        - title: onedrive
+          url: https://onedrive.live.com/
+          logo: https://api.iowen.cn/favicon/onedrive.live.com.png
+          description: 微软onedrive
+        - title: Google
+          url: https://drive.google.com/drive/my-drive
+          logo: https://api.iowen.cn/favicon/drive.google.comdrivemy-drive.png
+          description: Google云端硬盘
+        - title: 苹果云盘
+          url: https://www.icloud.com/
+          logo: https://api.iowen.cn/favicon/www.icloud.com.png
+          description: 苹果云盘
+        - title: 百度网盘
+          url: http://pan.baidu.com/
+          logo: https://api.iowen.cn/favicon/pan.baidu.com.png
+          description: https://pan.baidu.com/.
+        - title: 阿里云盘
+          url: https://www.aliyundrive.com/
+          logo: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          url: https://cloud.189.cn/
+          logo: https://api.iowen.cn/favicon/cloud.189.cn.png
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          usrl: https://www.jianguoyun.com/
+          logo: https://api.iowen.cn/favicon/alist.xiaoya.pro.png
+          description: 坚果云官网。
+    - term: 个人网盘
+      links:
+        - title: 小雅
+          url: http://alist.xiaoya.pro/
+          logo: https://api.iowen.cn/favicon/tuostudy.com.png
+          description: 东西贼多
+        - title: 图欧资源库
+          url: https://tuostudy.com/
+          logo: https://api.iowen.cn/favicon/pan.peico.cn.png
+          description: 东西多，速度还快
+        - title: 羽化
+          url: http://pan.oroe.eu.org/
+          logo: alist.svg
+          description: 🌖
+        - title: kenvie
+          url: https://ali.kenvie.com/
+          logo: https://api.iowen.cn/favicon/media.cooluc.com.png
+          description: 速度很快
+        - title: cooluc
+          url: https://media.cooluc.com/ 
+          logo: https://api.iowen.cn/favicon/pan.ltyuanfang.cn.png
+          description: 资源很全，速度很快
+        - title: 远方盘
+          url: https://pan.ltyuanfang.cn/  
+          logo: https://api.iowen.cn/favicon/pan.2bboy.comhome.png
+          description: 速度不错
+        - title: 醉后的星星
+          url: https://pan.2bboy.com/home/
+          logo: https://api.iowen.cn/favicon/onedrive.a-my.top.png
+          description: 。。。
+        - title: 即小兴
+          url: https://onedrive.a-my.top/
+          logo: https://api.iowen.cn/favicon/wp.pcno.cn.png
+          description: 现在速度差不多了
+        - title: pcno
+          url: https://wp.pcno.cn/
+          logo: https://api.iowen.cn/favicon/pan.woriqq.com.png
+          description: 🤔没啥东西
+        - title: iCloud
+          url: https://pan.woriqq.com/
+          logo: https://api.iowen.cn/favicon/drive.swo.moe.png
+          description: 清风的私人云盘
+        - title: Spencer's OneDrive
+          url: https://drive.swo.moe/
+          logo: https://api.iowen.cn/favicon/cloud.avbk.cn.png
+          description: onedrive-vercel-index演示站，程序很漂亮
+        - title: 百鸟思慕
+          url: https://cloud.avbk.cn/
+          logo: https://api.iowen.cn/favicon/yiso.fun.png
+          description: 东西贼少
+    - term: 盘搜工具
+      links:
+        - url: https://yiso.fun/
+          title: 易搜
+          logo: https://api.iowen.cn/favicon/www.cuppaso.fun.png
+          description: 阿里云盘、百度网盘、夸克网盘、迅雷云盘四大网盘免费搜索！（支持用户投稿，投稿数量无限制，投完秒收录，立即就能查的到）
+        - url: https://www.cuppaso.fun/
+          title: 咔帕搜索
+          logo: https://api.iowen.cn/favicon/pan.qianfan.app.png
+          description: 坚持用心做最简单的综合云盘资源搜索引擎，并且永久免费使用无广告做绿色搜索引擎！（支持七大网盘搜索！是国内目前支持网盘搜索数量最多的搜索引擎！）
+        - url: https://pan.qianfan.app/
+          title: 千帆搜索
+          logo: https://api.iowen.cn/favicon/www.alipansou.com.png
+          description: 支持阿里百度蓝奏天翼夸克迅雷六大网盘搜索——坚持做最好用的聚合网盘搜索引擎，服务你我他，深藏功与名！
+        - url: https://www.alipansou.com/
+          title: 猫狸盘搜
+          logo: https://api.iowen.cn/favicon/www.niceso.fun.png
+          description: 原阿里盘搜已经改名喵哩盘搜，电脑端使用不是很方便，比较适合手机端浏览，影视娱乐资源偏多，学习资源较少（底部可以跳转百度盘搜和天翼盘搜）
+        - url: https://www.niceso.fun/
+          title: 奈斯搜索
+          logo: https://api.iowen.cn/favicon/zhaoziyuan.la.png
+          description: 阿里云盘搜索引擎，需要注册登录才能使用，站长同时也是Imyshare的站长
+        - url: https://zhaoziyuan.la/
+          title: 找资源
+          logo: https://api.iowen.cn/favicon/jujuso.com.png
+          description: 【需注册登录使用，有广告】找资源，阿里云盘搜索引擎，快速搜索阿里云盘资源，24H不间断更新，24H自动检测失效链接，查看最新资源刷新首页即可！
+        - url: https://jujuso.com/
+          title: 优聚搜
+          logo: https://api.iowen.cn/favicon/yougit.net.png
+          description: 三大热门网盘都能搜，大部分热门资源可以在这里找到，还是找不到的话可以试试其他搜索引擎。需要注册登录才可以使用，已经支持用户投稿
+        - url: https://yougit.net/
+          title: YOUGIT
+          logo: https://api.iowen.cn/favicon/pan.ccof.cc.png
+          description: 阿里云蓝奏云搜
+        - url: https://pan.ccof.cc/
+          title: YaPan Yapan
+          logo: https://api.iowen.cn/favicon/dapanso.com.png
+          description: 一款超级简洁的免费无广告阿里云盘检索工具
+        - url: https://dapanso.com/
+          title: 大盘搜[付费]
+          logo: https://api.iowen.cn/favicon/www.iizhi.cn.png
+          description: 大盘搜——阿里云盘资源搜索，需要付费才能获取搜索结果，15元起步（比大力盘要贵5元）
+        - url: https://www.iizhi.cn/
+          title: 毕方铺[付费]
+          logo: https://api.iowen.cn/favicon/www.upyunso.com.png
+          description: 支持百度网盘、阿里云盘、夸克网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。【可投稿资源可发表求助，但需要注册登录还要付费至少10元才能获取搜索结果，看个人能力吧】
+        - url: https://www.upyunso.com
+          logo: https://api.iowen.cn/favicon/www.yubaipan.com.png
+          description: 最好用的阿里网盘搜索网站，收录了各大网友投稿的上万份阿里网盘资源链接，资源很全，可以精确搜索到网盘里面所有文件的名字，支持用户投稿
+          title: UP云搜
+        - url: https://www.yubaipan.com
+          logo: https://api.iowen.cn/favicon/www.58wangpan.com.png
+          description: 
+          title: 玉白盘
+        - url: http://www.58wangpan.com
+          logo: https://api.iowen.cn/favicon/www.baimapan.com.png
+          description: 
+          title: 58网盘
+        - url: https://www.baimapan.com
+          logo: https://api.iowen.cn/favicon/www.quzhuanpan.com.png
+          description: 
+          title: 白马盘
+        - url: http://www.quzhuanpan.com
+          logo: https://api.iowen.cn/favicon/www.sobaidupan.com.png
+          description: 
+          title: 去转盘
+        - url: http://www.sobaidupan.com
+          logo: https://api.iowen.cn/favicon/www.xiaozhaolaila.com.png
+          description: 
+          title: 搜百度盘
+        - url: https://www.xiaozhaolaila.com
+          logo: https://api.iowen.cn/favicon/www.pan58.com.png
+          description: 
+          title: 小昭来啦
+        - url: http://www.pan58.com
+          logo: https://api.iowen.cn/favicon/www.luomapan.com.png
+          description: 
+          title: 盘58
+        - url: https://www.luomapan.com
+          logo: https://api.iowen.cn/favicon/www.sssoou.com.png
+          description: 
+          title: 罗马盘
+        - url: https://www.sssoou.com
+          logo: https://api.iowen.cn/favicon/www.panmeme.com.png
+          description: 
+          title: telegram中文搜索
+        - url: http://www.panmeme.com
+          logo: https://api.iowen.cn/favicon/www.dalipan.com.png
+          description: 
+          title: 盘么么
+        - url: https://www.dalipan.com
+          logo: https://api.iowen.cn/favicon/www.laisoyixia.com.png
+          description: 
+          title: 大力盘
+        - url: https://www.laisoyixia.com/
+          logo: https://api.iowen.cn/favicon/u.gitcafe.net.png
+          description: 来搜一下
+          title: 来搜一下
+    - term: 云盘论坛
+      links:
+        - url: https://u.gitcafe.net/
+          title: 小纸条
+          logo: https://api.iowen.cn/favicon/jujuso.com.png
+          description: 【小纸条：开放纯粹的阿里云盘资源链接收集网】严格来说不能算是网盘资源论坛，只能发资源链接，支持站内搜索关键词，支持用户投稿
+        - url: https://jujuso.com/
+          title: 优聚搜
+          logo: https://api.iowen.cn/favicon/daiguaji.com.png
+          description: 三大热门网盘都能搜，大部分热门资源可以在这里找到，还是找不到的话可以试试其他搜索引擎。需要注册登录才可以使用，已经支持用户投稿
+        - url: https://daiguaji.com/
+          title: 网盘资源站 致力于为用户打造最好用的资源共享网站，好资源不私藏！ 免费注册登陆即可分享获取资源！让资源更有价值
+          description:
+        - url: https://m.sousou.pro/
+          title: 阿里资源站
+          logo: https://api.iowen.cn/favicon/m.sousou.pro.png
+          description: 阿里云盘资源站
+        - url: https://www.42958.com/
+          title: 网盘分享吧
+          logo: https://api.iowen.cn/favicon/www.42958.com.png
+          description: 老网盘分享论坛
+        - url: https://www.yunpanziyuan.com/
+          title: 云盘资源网
+          logo: https://api.iowen.cn/favicon/www.yunpanziyuan.com.png
+          description: 阿里云盘资源偏多
+        - url: https://www.kkpans.com/
+          title: KK网盘资源
+          logo: https://api.iowen.cn/favicon/www.kkpans.com.png
+          description: 夸克网盘资源老版论坛
+        - url: http://bbs.kkzys.com/
+          title: 酷酷资源社
+          logo: https://api.iowen.cn/favicon/bbs.kkzys.com.png
+          description: 【最新夸克资源论坛】做一个有价值的网盘资源分享论坛！
+        - url: https://kkxz.vip/
+          title: 夸克小站
+          logo: https://api.iowen.cn/favicon/kkxz.vip.png
+          description: 夸克网盘资源共享站
+        - url: https://www.120800.com/
+          title: 夸夸社区
+          logo: https://api.iowen.cn/favicon/www.120800.com.png
+          description: 夸克网盘资源社区
+        - url: http://haoduo.cc/
+          title: 好多社区
+          logo: https://api.iowen.cn/favicon/haoduo.cc.png
+          description: 简单快捷的网盘资源分享社区
+        - url: https://www.qitabbs.com/circle/study
+          title: 奇它论坛
+          logo: https://api.iowen.cn/favicon/www.qitabbs.comcirclestudy.png
+          description: 阿里云盘天翼云盘微博式论坛，需要注册登录才可以获取资源
+        - url: https://pan666.cn/
+          title: 我的小站
+          logo: https://api.iowen.cn/favicon/pan666.cn.png
+          description: 阿里云盘资源共享社区
+        - url: https://wpxz.org/
+          title: 网盘小站
+          logo: https://api.iowen.cn/favicon/wpxz.org.png
+          description: 阿里云盘资源共享小站
+        - url: https://www.panpanr.com/
+          title: 阿里盘盘
+          logo: https://api.iowen.cn/favicon/www.panpanr.com.png
+          description: 阿里盘盘，阿里云盘资源小论坛
+        - url: https://yunpan1.24kdh.cn/
+          title: 云盘资源
+          logo: https://api.iowen.cn/favicon/yunpan1.24kdh.cn.png
+          description: 分享社区 云盘资源分享社区
+        - url: https://drivebbs.com/
+          title: 阿里云盘社区
+          logo: https://api.iowen.cn/favicon/drivebbs.com.png
+          description: 老版阿里云盘资源分享论坛
+        - url: http://vc87.top/
+          title: 小奇资源库
+          logo: https://api.iowen.cn/favicon/vc87.top.png
+          description: 小奇资源库 - 做一个有价值的网盘资源分享论坛！
+        - url: https://www.chidao365.com/
+          title: 赤道365论坛
+          logo: https://api.iowen.cn/favicon/www.chidao365.com.png
+          description: 经典网盘分享论坛
+        - url: https://www.iizhi.cn/
+          title: 毕方铺[付费]
+          logo: https://api.iowen.cn/favicon/www.iizhi.cn.png
+          description: 支持百度网盘、阿里云盘、夸克网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。【可投稿资源可发表求助，但需要注册登录还要付费至少10元才能获取搜索结果，看个人能力吧】
+        - url: https://ifree8.com/archives/cyclub
+          title: 知识船仓
+          logo: https://api.iowen.cn/favicon/ifree8.comarchivescyclub.png
+          description: 【仅限成年人加入】这是一个由船长组建的共享、共识、共学的公益类知识共建社群（站长也在里面），拓宽你的知识和人脉，进行跨界交流与合作，让一路成长的你能找到更多志同道合的朋友，一起结伴同行，不惧未来之变局，不负此生之芳华~
+        - url: https://www.fqpan.com/
+          title: 番茄盘
+          logo: https://api.iowen.cn/favicon/www.fqpan.com.png
+          description: 番茄盘搜索（www.fqpan.com）是一个资源超丰富的综合资源搜索与投稿网站,番茄盘搜索专注于收录全网综合盘资源，包括：影视资源、音乐资源、图片资源、电子书资源、软件资源、小说资源等等。支持用户投稿与评论。
+    - term: 临时传输
+      links:
+        - url: https://gofile.io/
+          logo: https://api.iowen.cn/favicon/gofile.io.png
+          description: 七天内有下载就不会删除
+          title: 临时网盘
+        - url: https://app.tmp.link/
+          logo: https://api.iowen.cn/favicon/app.tmp.link.png
+          description: 不限空间的临时网盘
+          title: 钛盘
+    - term: 云盘工具
+      links:
+        - url: https://link.gimhoy.com/
+          logo: https://api.iowen.cn/favicon/link.gimhoy.com.png
+          description: 网盘直链获取工具
+          title: 网盘直连
